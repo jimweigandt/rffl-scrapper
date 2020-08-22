@@ -87,6 +87,13 @@ const fantasy = async (username) => {
         }
     }
 
+    const getYear = () => {
+        const actualYear = url.slice(41, 45);
+
+        fullGameData.push(actualYear);
+    }
+
+    getYear();
 
     //Remove unrecognized character
 
@@ -178,39 +185,7 @@ const fantasy = async (username) => {
         ) {
             fullGameData.push(getBenchLineup[i]);
         }
-    }
-
-    switch (url) {
-        case url.includes('2011'):
-            fullGameData.push('2011');
-            break;
-        case url.includes('2012'):
-            fullGameData.push('2012');
-            break;
-        case url.includes('2013'):
-            fullGameData.push('2013');
-            break;
-        case url.includes('2014'):
-            fullGameData.push('2014');
-            break;
-        case url.includes('2015'):
-            fullGameData.push('2015');
-            break;
-        case url.includes('2016'):
-            fullGameData.push('2016');
-            break;
-        case url.includes('2017'):
-            fullGameData.push('2017');
-            break;
-        case url.includes('2018'):
-            fullGameData.push('2018');
-            break;
-        case url.includes('2019'):
-            fullGameData.push('2019');
-            break;
-    }
-
-    console.log(fullGameData);
+    };
 
     const yes = fullGameData.toString();
 
@@ -229,113 +204,146 @@ const fantasy = async (username) => {
 
     const push = () => {
         playerOneData.push(
-            fullGameData[0], // Week
-            fullGameData[1], // Date
+            fullGameData[0], // Year
+            fullGameData[1], // Week
+            fullGameData[2], // Date
 
-            fullGameData[2], // Team Name
-            fullGameData[3], // Opponent Name
+            fullGameData[3], // Team Name
+            fullGameData[4], // Opponent Name
 
-            //Quarterback
+            // Player 1
             {
-                position: fullGameData[7], // QB
-                playername: fullGameData[4], // Quarterback Name
-                projection: fullGameData[5], // Quarterback Projection
-                points: fullGameData[6], // Quarterback Points
-                week: fullGameData[0], // Week
-                date: fullGameData[1], // Date
-                rfflteam: fullGameData[2], // RFFL Team Name
-                rfflopponent: fullGameData[3] // RFFL Opponent Name
+                position: fullGameData[8], // Player 1 Position
+                playername: fullGameData[5], // Player 1 Name
+                projection: fullGameData[6], // Player 1 Projection
+                points: fullGameData[7], // Player 1 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
             },
 
-            // Wide Receiver
-            fullGameData[11], // Player 2 Name
-            fullGameData[12], // Player 2 Projection
-            fullGameData[13], // Player 2 Points
-            fullGameData[14], // Player 2 Position
-
-            // Wide Receiver
-            fullGameData[18], // Player 3 Name
-            fullGameData[19], // Player 3 Projection
-            fullGameData[20], // Player 3 Points
-            fullGameData[21], // Player 3 Position
-
-            // Running Back/Wide Receiver depending on year
-            fullGameData[25], // Player 4 Name
-            fullGameData[26], // Player 4 Projection
-            fullGameData[27], // Player 4 Points
-            fullGameData[28], // Player 4 Position
-
-            // Running Back
-            fullGameData[32], // Player 5 Name
-            fullGameData[33], // Player 5 Projection
-            fullGameData[34], // Player 5 Points
-            fullGameData[35], // Player 5 Position
+            // Player 2
+            {
+                position: fullGameData[15], // Player 2 Position
+                playername: fullGameData[12], // Player 2 Name
+                projection: fullGameData[13], // Player 2 Projection
+                points: fullGameData[14], // Player 2 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
+            },
+            // Player 3
+            {
+                position: fullGameData[22], // Player 3 Position
+                playername: fullGameData[19], // Player 3 Name
+                projection: fullGameData[20], // Player 3 Projection
+                points: fullGameData[21], // Player 3 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
+            },
+            // Player 4
+            {
+                position: fullGameData[29], // Player 4 Position
+                playername: fullGameData[26], // Player 4 Name
+                projection: fullGameData[27], // Player 4 Projection
+                points: fullGameData[28], // Player 4 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
+            },
+            // Player 5
+            {
+                position: fullGameData[36], // Player 5 Position
+                playername: fullGameData[33], // Player 5 Name
+                projection: fullGameData[34], // Player 5 Projection
+                points: fullGameData[35], // Player 5 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
+            },
+            // Player 6
+            {
+                position: fullGameData[43], // Player 6 Position
+                playername: fullGameData[40], // Player 6 Name
+                projection: fullGameData[41], // Player 6 Projection
+                points: fullGameData[42], // Player 6 Points
+                week: fullGameData[1], // Week
+                date: fullGameData[2], // Date
+                rfflteam: fullGameData[3], // RFFL Team Name
+                rfflopponent: fullGameData[4] // RFFL Opponent Name
+            },
 
             // Tight End/Running Back depending on year
-            fullGameData[39], // Player 6 Name
-            fullGameData[40], // Player 6 Projection
-            fullGameData[41], // Player 6 Points
-            fullGameData[42], // Player 6 Position
+            fullGameData[40], // Player 6 Name
+            fullGameData[41], // Player 6 Projection
+            fullGameData[42], // Player 6 Points
+            fullGameData[43], // Player 6 Position
 
             // Tight End/Flex depending on year
-            fullGameData[46], // Player 7 Name
-            fullGameData[47], // Player 7 Projection
-            fullGameData[48], // Player 7 Points
-            fullGameData[49], // Player 7 Position
+            fullGameData[47], // Player 7 Name
+            fullGameData[48], // Player 7 Projection
+            fullGameData[49], // Player 7 Points
+            fullGameData[50], // Player 7 Position
 
             // Kicker
-            fullGameData[53], // Player 8 Name
-            fullGameData[54], // Player 8 Projection
-            fullGameData[55], // Player 8 Points
-            fullGameData[56], // Player 8 Position
+            fullGameData[54], // Player 8 Name
+            fullGameData[55], // Player 8 Projection
+            fullGameData[56], // Player 8 Points
+            fullGameData[57], // Player 8 Position
 
             // Defense
-            fullGameData[60], // Player 9 Name
-            fullGameData[61], // Player 9 Projection
-            fullGameData[62], // Player 9 Points
-            fullGameData[63], // Player 9 Position
+            fullGameData[61], // Player 9 Name
+            fullGameData[62], // Player 9 Projection
+            fullGameData[63], // Player 9 Points
+            fullGameData[64], // Player 9 Position
 
             // Score
-            fullGameData[67], // Projected Points
-            fullGameData[68], // Total Points
+            fullGameData[68], // Projected Points
+            fullGameData[69], // Total Points
 
-            fullGameData[71], // Bench 1 Name
-            fullGameData[72], // Bench 1 Projection
-            fullGameData[73], // Bench 1 Points
-            fullGameData[74], // Bench 1 Position
-            fullGameData[78], // Bench 2 Name
-            fullGameData[79], // Bench 2 Projection
-            fullGameData[80], // Bench 2 Points
-            fullGameData[81], // Bench 2 Position
-            fullGameData[85], // Bench 3 Name
-            fullGameData[86], // Bench 3 Projection
-            fullGameData[87], // Bench 3 Points
-            fullGameData[88], // Bench 3 Position
-            fullGameData[92], // Bench 4 Name
-            fullGameData[93], // Bench 4 Projection
-            fullGameData[94], // Bench 4 Points
-            fullGameData[95], // Bench 4 Position
-            fullGameData[99], // Bench 5 Name
-            fullGameData[100], // Bench 5 Projection
-            fullGameData[101], // Bench 5 Points
-            fullGameData[102], // Bench 5 Position
-            fullGameData[106], // Bench 6 Name
-            fullGameData[107], // Bench 6 Projection
-            fullGameData[108], // Bench 6 Points
-            fullGameData[109] // Bench 6 Position
+            fullGameData[72], // Bench 1 Name
+            fullGameData[73], // Bench 1 Projection
+            fullGameData[74], // Bench 1 Points
+            fullGameData[75], // Bench 1 Position
+            fullGameData[79], // Bench 2 Name
+            fullGameData[80], // Bench 2 Projection
+            fullGameData[81], // Bench 2 Points
+            fullGameData[82], // Bench 2 Position
+            fullGameData[86], // Bench 3 Name
+            fullGameData[87], // Bench 3 Projection
+            fullGameData[88], // Bench 3 Points
+            fullGameData[89], // Bench 3 Position
+            fullGameData[93], // Bench 4 Name
+            fullGameData[94], // Bench 4 Projection
+            fullGameData[95], // Bench 4 Points
+            fullGameData[96], // Bench 4 Position
+            fullGameData[100], // Bench 5 Name
+            fullGameData[101], // Bench 5 Projection
+            fullGameData[102], // Bench 5 Points
+            fullGameData[103], // Bench 5 Position
+            fullGameData[107], // Bench 6 Name
+            fullGameData[108], // Bench 6 Projection
+            fullGameData[109], // Bench 6 Points
+            fullGameData[110] // Bench 6 Position
         );
 
         if (url.includes('2019')) {
             playerOneData.push(
-                fullGameData[113], // IR Name
-                fullGameData[114], // IR Projection
-                fullGameData[115], // IR Points
-                fullGameData[116], // IR Position
-                fullGameData[118] // Bench Total Points
+                fullGameData[114], // IR Name
+                fullGameData[115], // IR Projection
+                fullGameData[116], // IR Points
+                fullGameData[117], // IR Position
+                fullGameData[119] // Bench Total Points
             )
         } else {
             playerOneData.push(
-                fullGameData[113] // Bench Total Points
+                fullGameData[114] // Bench Total Points
             )
         }
 
@@ -400,7 +408,7 @@ const fantasy = async (username) => {
 
     push();
 
-    // console.log(playerOneData);
+    console.log(playerOneData);
     // console.log(playerTwoData);
 
     // fs.createReadStream('input.csv')
