@@ -1,0 +1,577 @@
+position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Rivers,13.68,13.35,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,H. Nicks,14.52,7.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,M. Austin,13.59,14.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,C. Johnson,14.47,11.10,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,D. McFadden,17.97,24.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+TE,B. Pettigrew,8.53,12.70,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+W/R,D. Sproles,14.07,13.50,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+K,J. Hanson,9.70,11.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+DEF,B.,9.55,-2.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Tamme,8.23,12.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,B. Lloyd,10.87,11.90,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Cutler,13.40,19.25,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,S. Rice,8.23,10.60,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,R. Jennings,11.30,5.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,P. Hillis,10.33,5.40,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+,,,,,,,
+QB,M. Vick,18.59,19.05,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,M. Wallace,11.73,10.70,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,D. Jackson,9.34,12.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,A. Foster,15.68,20.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,F. Gore,11.47,18.30,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+TE,J. Graham,13.90,17.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+W/R,E. Decker,14.18,10.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+K,A. Henery,10.20,6.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+DEF,N. York,10.50,19.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Griffin III,15.90,24.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,C. Spiller,7.01,25.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,B. Celek,6.61,10.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,S. Holmes,7.80,10.80,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Brown,8.57,8.10,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,N. Burleson,6.30,13.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Manning,15.45,18.95,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,L. Fitzgerald,14.93,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,G. Jennings,12.98,8.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,J. Charles,12.95,8.70,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,D. Williams,10.64,1.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+TE,V. Davis,10.16,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+W/R,D. Bowe,11.77,8.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+K,M. Prater,7.94,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+DEF,D.,10.68,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,B. Green-Ellis,9.57,16.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Schaub,12.43,15.10,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Crabtree,9.61,14.60,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,J. Rodgers,5.86,5.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,H. Miller,7.82,12.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,K. Ogletree,2.31,25.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+,,,,,,,
+QB,A. Rodgers,21.15,22.85,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,J. Jones,12.90,22.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,R. Wayne,12.64,22.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,M. Turner,8.81,3.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,S. Ridley,9.04,23.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+TE,D. Keller,8.26,1.70,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+W/R,D. Thomas,12.85,19.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+K,S. Janikowski,8.43,8.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+DEF,P.,11.45,14.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,P. Garcon,10.28,17.90,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,L. Moore,9.58,21.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,B. Tate,8.91,5.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Jones-Drew,4.44,12.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,A. Luck,13.01,13.35,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Bennett,7.58,11.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Rivers,13.68,13.35,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,H. Nicks,14.52,7.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,M. Austin,13.59,14.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,C. Johnson,14.47,11.10,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,D. McFadden,17.97,24.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+TE,B. Pettigrew,8.53,12.70,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+W/R,D. Sproles,14.07,13.50,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+K,J. Hanson,9.70,11.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+DEF,B.,9.55,-2.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Tamme,8.23,12.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,B. Lloyd,10.87,11.90,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Cutler,13.40,19.25,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,S. Rice,8.23,10.60,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,R. Jennings,11.30,5.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,P. Hillis,10.33,5.40,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+,,,,,,,
+QB,M. Vick,18.59,19.05,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,M. Wallace,11.73,10.70,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,D. Jackson,9.34,12.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,A. Foster,15.68,20.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,F. Gore,11.47,18.30,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+TE,J. Graham,13.90,17.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+W/R,E. Decker,14.18,10.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+K,A. Henery,10.20,6.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+DEF,N. York,10.50,19.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Griffin III,15.90,24.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,C. Spiller,7.01,25.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,B. Celek,6.61,10.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,S. Holmes,7.80,10.80,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Brown,8.57,8.10,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,N. Burleson,6.30,13.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Manning,15.45,18.95,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,L. Fitzgerald,14.93,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,G. Jennings,12.98,8.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,J. Charles,12.95,8.70,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,D. Williams,10.64,1.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+TE,V. Davis,10.16,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+W/R,D. Bowe,11.77,8.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+K,M. Prater,7.94,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+DEF,D.,10.68,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,B. Green-Ellis,9.57,16.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Schaub,12.43,15.10,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Crabtree,9.61,14.60,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,J. Rodgers,5.86,5.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,H. Miller,7.82,12.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,K. Ogletree,2.31,25.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+,,,,,,,
+QB,A. Rodgers,21.15,22.85,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,J. Jones,12.90,22.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,R. Wayne,12.64,22.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,M. Turner,8.81,3.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,S. Ridley,9.04,23.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+TE,D. Keller,8.26,1.70,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+W/R,D. Thomas,12.85,19.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+K,S. Janikowski,8.43,8.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+DEF,P.,11.45,14.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,P. Garcon,10.28,17.90,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,L. Moore,9.58,21.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,B. Tate,8.91,5.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Jones-Drew,4.44,12.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,A. Luck,13.01,13.35,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Bennett,7.58,11.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,17.65,15.90,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+WR,V. Cruz,13.30,11.80,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+WR,A. Brown,10.91,11.80,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+RB,A. Bradshaw,13.97,17.30,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+RB,R. Helu Jr.,7.16,5.70,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+TE,A. Gates,12.71,8.30,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+W/R,T. Smith,11.07,9.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+K,D. Bailey,7.79,6.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+DEF,B.,8.36,18.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,J. Stewart,5.71,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,F. Jones,5.76,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,S. Johnson,9.81,12.50,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,D. Moore,5.20,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,A. Dalton,12.27,9.15,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,G. Olsen,7.26,11.60,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+,,,,,,,
+QB,D. Brees,19.05,20.95,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+WR,B. Marshall,12.73,23.90,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+WR,S. Smith Sr.,13.15,17.60,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+RB,T. Richardson,14.28,5.40,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+RB,R. Bush,12.53,17.50,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+TE,F. Davis,9.71,5.80,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+W/R,V. Jackson,11.68,8.70,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+K,M. Crosby,9.05,2.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+DEF,P.,6.76,4.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,A. Peterson,9.34,21.70,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,K. Britt,0.00,0.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Brown,10.50,10.80,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,J. Freeman,15.75,10.20,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Clark,7.29,4.30,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Heyward-Bey,9.33,7.30,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Rivers,13.68,13.35,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,H. Nicks,14.52,7.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,M. Austin,13.59,14.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,C. Johnson,14.47,11.10,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,D. McFadden,17.97,24.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+TE,B. Pettigrew,8.53,12.70,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+W/R,D. Sproles,14.07,13.50,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+K,J. Hanson,9.70,11.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+DEF,B.,9.55,-2.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Tamme,8.23,12.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,B. Lloyd,10.87,11.90,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Cutler,13.40,19.25,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,S. Rice,8.23,10.60,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,R. Jennings,11.30,5.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,P. Hillis,10.33,5.40,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+,,,,,,,
+QB,M. Vick,18.59,19.05,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,M. Wallace,11.73,10.70,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,D. Jackson,9.34,12.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,A. Foster,15.68,20.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,F. Gore,11.47,18.30,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+TE,J. Graham,13.90,17.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+W/R,E. Decker,14.18,10.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+K,A. Henery,10.20,6.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+DEF,N. York,10.50,19.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Griffin III,15.90,24.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,C. Spiller,7.01,25.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,B. Celek,6.61,10.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,S. Holmes,7.80,10.80,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Brown,8.57,8.10,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,N. Burleson,6.30,13.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,17.13,18.05,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+WR,R. White,12.08,14.70,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+WR,W. Welker,12.33,4.40,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+RB,M. Forte,17.77,21.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+RB,S. Jackson,16.41,12.40,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+TE,J. Witten,0.00,3.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+W/R,J. Maclin,11.18,19.60,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+K,G. Hartley,10.95,6.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+DEF,S.,11.13,6.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,N. Washington,7.05,10.30,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,T. Young,8.18,3.50,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,C. Benson,5.57,1.80,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,J. Flacco,14.84,18.85,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,R. Mendenhall,0.00,0.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,O. Daniels,6.18,12.70,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+,,,,,,,
+QB,E. Manning,16.21,12.65,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+WR,C. Johnson,16.78,17.10,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+WR,A. Johnson,11.66,22.90,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+RB,D. Murray,12.73,16.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+RB,F. Jackson,14.42,1.50,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+TE,T. Gonzalez,9.18,13.30,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+W/R,A. Boldin,10.84,13.60,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+K,M. Bryant,8.20,17.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+DEF,H.,11.46,15.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,J. Finley,8.09,14.70,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,W. McGahee,8.53,6.40,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,B. Roethlisberger,13.96,15.65,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,M. Bush,10.37,16.20,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,M. Floyd,9.46,13.60,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,P. Thomas,10.45,3.90,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Manning,15.45,18.95,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,L. Fitzgerald,14.93,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,G. Jennings,12.98,8.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,J. Charles,12.95,8.70,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,D. Williams,10.64,1.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+TE,V. Davis,10.16,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+W/R,D. Bowe,11.77,8.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+K,M. Prater,7.94,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+DEF,D.,10.68,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,B. Green-Ellis,9.57,16.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Schaub,12.43,15.10,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Crabtree,9.61,14.60,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,J. Rodgers,5.86,5.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,H. Miller,7.82,12.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,K. Ogletree,2.31,25.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+,,,,,,,
+QB,A. Rodgers,21.15,22.85,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,J. Jones,12.90,22.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,R. Wayne,12.64,22.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,M. Turner,8.81,3.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,S. Ridley,9.04,23.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+TE,D. Keller,8.26,1.70,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+W/R,D. Thomas,12.85,19.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+K,S. Janikowski,8.43,8.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+DEF,P.,11.45,14.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,P. Garcon,10.28,17.90,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,L. Moore,9.58,21.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,B. Tate,8.91,5.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Jones-Drew,4.44,12.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,A. Luck,13.01,13.35,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Bennett,7.58,11.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Romo,15.68,21.55,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,J. Nelson,12.13,13.40,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+WR,M. Colston,13.31,9.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,R. Rice,19.54,24.30,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+RB,K. Smith,15.90,22.10,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+TE,R. Gronkowski,12.82,15.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+W/R,D. Bryant,13.29,12.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+K,D. Akers,6.90,16.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+DEF,C.,11.19,14.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,11.81,11.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Mathews,0.00,0.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,M. Ingram II,9.57,1.50,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,J. Gresham,8.94,6.00,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Wilson,13.87,8.65,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+BN,R. Cobb,4.85,22.70,1,Sep 5 - Sep 10,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,C. Newton,21.97,15.55,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,A. Green,13.51,12.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+WR,P. Harvin,13.50,16.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,L. McCoy,18.64,17.60,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+RB,D. Martin,12.81,15.80,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+TE,A. Hernandez,10.68,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+W/R,S. Greene,13.41,15.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+K,S. Gostkowski,9.97,10.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+DEF,S. Francisco,5.73,5.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,M. Ryan,14.93,29.45,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,J. Blackmon,7.76,7.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,B. Wells,7.96,1.40,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,G. Little,7.94,0.00,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,K. Rudolph,6.43,11.70,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+BN,D. Amendola,9.91,12.20,1,Sep 5 - Sep 10,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,17.65,15.90,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+WR,V. Cruz,13.30,11.80,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+WR,A. Brown,10.91,11.80,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+RB,A. Bradshaw,13.97,17.30,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+RB,R. Helu Jr.,7.16,5.70,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+TE,A. Gates,12.71,8.30,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+W/R,T. Smith,11.07,9.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+K,D. Bailey,7.79,6.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+DEF,B.,8.36,18.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,J. Stewart,5.71,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,F. Jones,5.76,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,S. Johnson,9.81,12.50,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,D. Moore,5.20,0.00,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,A. Dalton,12.27,9.15,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+BN,G. Olsen,7.26,11.60,1,Sep 5 - Sep 10,Free Form Jazz,Fish Markets
+,,,,,,,
+QB,D. Brees,19.05,20.95,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+WR,B. Marshall,12.73,23.90,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+WR,S. Smith Sr.,13.15,17.60,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+RB,T. Richardson,14.28,5.40,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+RB,R. Bush,12.53,17.50,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+TE,F. Davis,9.71,5.80,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+W/R,V. Jackson,11.68,8.70,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+K,M. Crosby,9.05,2.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+DEF,P.,6.76,4.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,A. Peterson,9.34,21.70,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,K. Britt,0.00,0.00,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Brown,10.50,10.80,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,J. Freeman,15.75,10.20,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Clark,7.29,4.30,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+BN,D. Heyward-Bey,9.33,7.30,1,Sep 5 - Sep 10,Fish Markets,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Rivers,13.68,13.35,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,H. Nicks,14.52,7.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+WR,M. Austin,13.59,14.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,C. Johnson,14.47,11.10,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+RB,D. McFadden,17.97,24.80,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+TE,B. Pettigrew,8.53,12.70,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+W/R,D. Sproles,14.07,13.50,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+K,J. Hanson,9.70,11.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+DEF,B.,9.55,-2.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Tamme,8.23,12.30,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,B. Lloyd,10.87,11.90,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,J. Cutler,13.40,19.25,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,S. Rice,8.23,10.60,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,R. Jennings,11.30,5.00,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+BN,P. Hillis,10.33,5.40,1,Sep 5 - Sep 10,Purple Jesus',Crooked 6 1/2's
+,,,,,,,
+QB,M. Vick,18.59,19.05,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,M. Wallace,11.73,10.70,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+WR,D. Jackson,9.34,12.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,A. Foster,15.68,20.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+RB,F. Gore,11.47,18.30,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+TE,J. Graham,13.90,17.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+W/R,E. Decker,14.18,10.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+K,A. Henery,10.20,6.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+DEF,N. York,10.50,19.00,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Griffin III,15.90,24.20,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,C. Spiller,7.01,25.40,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,B. Celek,6.61,10.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,S. Holmes,7.80,10.80,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,R. Brown,8.57,8.10,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+BN,N. Burleson,6.30,13.50,1,Sep 5 - Sep 10,Crooked 6 1/2's,Purple Jesus'
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,17.13,18.05,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+WR,R. White,12.08,14.70,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+WR,W. Welker,12.33,4.40,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+RB,M. Forte,17.77,21.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+RB,S. Jackson,16.41,12.40,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+TE,J. Witten,0.00,3.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+W/R,J. Maclin,11.18,19.60,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+K,G. Hartley,10.95,6.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+DEF,S.,11.13,6.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,N. Washington,7.05,10.30,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,T. Young,8.18,3.50,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,C. Benson,5.57,1.80,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,J. Flacco,14.84,18.85,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,R. Mendenhall,0.00,0.00,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+BN,O. Daniels,6.18,12.70,1,Sep 5 - Sep 10,Amish Rakefighters,Touch Me Gingerly
+,,,,,,,
+QB,E. Manning,16.21,12.65,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+WR,C. Johnson,16.78,17.10,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+WR,A. Johnson,11.66,22.90,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+RB,D. Murray,12.73,16.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+RB,F. Jackson,14.42,1.50,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+TE,T. Gonzalez,9.18,13.30,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+W/R,A. Boldin,10.84,13.60,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+K,M. Bryant,8.20,17.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+DEF,H.,11.46,15.00,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,J. Finley,8.09,14.70,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,W. McGahee,8.53,6.40,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,B. Roethlisberger,13.96,15.65,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,M. Bush,10.37,16.20,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,M. Floyd,9.46,13.60,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+BN,P. Thomas,10.45,3.90,1,Sep 5 - Sep 10,Touch Me Gingerly,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Manning,15.45,18.95,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,L. Fitzgerald,14.93,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+WR,G. Jennings,12.98,8.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,J. Charles,12.95,8.70,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+RB,D. Williams,10.64,1.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+TE,V. Davis,10.16,10.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+W/R,D. Bowe,11.77,8.30,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+K,M. Prater,7.94,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+DEF,D.,10.68,5.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,B. Green-Ellis,9.57,16.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Schaub,12.43,15.10,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,M. Crabtree,9.61,14.60,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,J. Rodgers,5.86,5.50,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,H. Miller,7.82,12.00,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+BN,K. Ogletree,2.31,25.40,1,Sep 5 - Sep 10,Wild Bunnies,Protein Stains
+,,,,,,,
+QB,A. Rodgers,21.15,22.85,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,J. Jones,12.90,22.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+WR,R. Wayne,12.64,22.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,M. Turner,8.81,3.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+RB,S. Ridley,9.04,23.20,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+TE,D. Keller,8.26,1.70,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+W/R,D. Thomas,12.85,19.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+K,S. Janikowski,8.43,8.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+DEF,P.,11.45,14.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,P. Garcon,10.28,17.90,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,L. Moore,9.58,21.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,B. Tate,8.91,5.80,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Jones-Drew,4.44,12.50,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,A. Luck,13.01,13.35,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+BN,M. Bennett,7.58,11.00,1,Sep 5 - Sep 10,Protein Stains,Wild Bunnies
+,,,,,,,
