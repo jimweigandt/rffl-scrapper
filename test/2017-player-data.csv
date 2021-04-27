@@ -1,0 +1,2432 @@
+position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,B. Roethlisberger,18.71,16.35,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+WR,J. Jones,18.78,10.60,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+WR,D. Bryant,16.77,6.30,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+RB,M. Lynch,12.33,10.20,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+RB,A. Peterson,8.23,1.80,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+TE,H. Henry,9.92,0.00,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+W/R,K. Allen,13.02,11.50,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+K,D. Bailey,10.28,15.00,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+DEF,M.,6.96,2.00,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,D. Carr,18.60,19.30,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,A. Abdullah,9.56,7.10,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,D. Woodhead,9.35,6.70,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,B. Marshall,11.99,2.00,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,T. Cohen,5.56,22.30,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+BN,K. Williams,2.38,8.20,1,Sep 7 - Sep 11,Whirling Dervishes,Crooked 6 1/2's
+,,,,,,,
+QB,T. Brady,23.95,13.35,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+WR,D. Hopkins,14.35,15.50,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+WR,J. Crowder,13.14,2.40,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+RB,D. Johnson,20.29,13.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+RB,E. Elliott,17.01,19.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+TE,J. Reed,13.24,8.60,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+W/R,S. Shepard,9.77,12.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+K,M. Prater,8.24,7.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+DEF,N. England,6.66,1.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,C. Anderson,10.88,9.80,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,D. McFadden,0.00,0.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,W. Snead IV,0.00,0.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,D. Amendola,11.54,16.00,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,T. Riddick,10.10,11.60,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+BN,Z. Ertz,13.08,17.30,1,Sep 7 - Sep 11,Crooked 6 1/2's,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,20.68,20.15,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+WR,M. Thomas,15.17,9.50,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+WR,M. Bryant,12.52,3.40,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+RB,L. McCoy,15.03,20.90,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+RB,C. McCaffrey,12.06,11.50,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+TE,J. Graham,13.46,3.80,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+W/R,D. Cook,11.22,16.70,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+K,M. Crosby,9.42,6.00,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+DEF,K. City,4.84,3.00,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,P. Garcon,12.17,14.10,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,J. Maclin,12.49,10.60,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,D. Martin,0.00,0.00,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,D. Moncrief,11.94,6.00,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,C. Davis,9.81,12.90,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+BN,C. Hogan,10.94,3.50,1,Sep 7 - Sep 11,Amish Rakefighters,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,19.27,9.90,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+WR,A. Brown,18.82,29.20,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+WR,D. Baldwin,15.18,10.00,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+RB,T. Gurley II,13.88,20.60,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+RB,B. Powell,12.06,8.90,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+TE,D. Walker,12.03,14.60,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+W/R,T. Pryor Sr.,14.51,12.60,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+K,R. Succop,9.13,12.00,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+DEF,H.,9.32,0.00,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,T. Coleman,10.74,9.80,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,D. Henry,7.66,2.50,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,A. Thielen,11.87,24.70,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,J. Brown,11.97,8.20,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,D. Sproles,9.54,9.50,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+BN,P. Perkins,10.51,4.50,1,Sep 7 - Sep 11,Touch Me Gingerly,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,23.74,18.65,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+WR,J. Nelson,16.46,17.90,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+WR,D. Thomas,14.82,11.70,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+RB,M. Gordon III,14.55,15.90,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+RB,L. Miller,12.53,11.60,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+TE,T. Kelce,14.96,9.40,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+W/R,E. Sanders,12.60,5.60,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+K,M. Bryant,10.68,12.00,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+DEF,A.,6.57,8.00,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,F. Gore,8.37,6.20,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,E. Decker,11.17,4.00,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,D. Johnson,11.36,4.00,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,T. Williams,11.40,10.40,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,J. Stewart,8.19,13.20,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+BN,E. Ebron,10.51,2.90,1,Sep 7 - Sep 11,Flying Dutchmen,Free Form Jazz
+,,,,,,,
+QB,M. Stafford,18.83,26.00,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+WR,G. Tate,14.92,21.40,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+WR,M. Crabtree,13.77,14.30,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+RB,D. Murray,15.21,8.00,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+RB,M. Ingram II,10.98,12.10,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+TE,R. Gronkowski,14.32,5.30,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+W/R,K. Benjamin,12.91,3.50,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+K,A. Vinatieri,8.84,3.00,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+DEF,C.,6.56,15.00,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,O. Beckham Jr.,0.38,0.00,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,M. Gillislee,9.62,22.50,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,K. Hunt,13.22,39.60,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,C. Beasley,10.48,6.20,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,R. Matthews,12.04,12.10,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+BN,C. Kupp,7.79,14.60,1,Sep 7 - Sep 11,Free Form Jazz,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Newton,21.64,12.85,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+WR,A. Cooper,16.32,14.20,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+WR,A. Jeffery,13.34,8.80,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+RB,D. Freeman,16.31,11.90,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+RB,I. Crowell,12.44,10.60,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+TE,G. Olsen,13.47,3.80,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+W/R,A. Robinson II,13.41,2.70,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+K,C. Sturgis,8.79,13.00,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+DEF,P.,8.26,18.00,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,D. Jackson,0.00,0.00,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,D. Brees,18.75,17.55,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,M. Forte,9.01,6.60,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,K. Britt,10.83,2.30,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,L. Blount,9.42,8.70,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+BN,M. Wallace,11.20,1.80,1,Sep 7 - Sep 11,Flying Pyramids,Sea Kings
+,,,,,,,
+QB,A. Dalton,17.83,-1.30,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+WR,K. White,11.33,2.60,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+WR,D. Adams,12.83,7.70,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+RB,L. Bell,21.35,7.70,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+RB,T. Montgomery,12.81,19.30,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+TE,M. Bennett,11.23,7.30,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+W/R,J. White,9.29,9.80,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+K,C. Boswell,9.27,3.00,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+DEF,D.,7.31,5.00,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,R. Cobb,11.86,17.50,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,J. Landry,0.00,0.00,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,R. Kelley,10.35,3.00,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,J. Charles,7.65,2.00,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,A. Smith,13.60,30.70,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+BN,(Empty),0.00,–,1,Sep 7 - Sep 11,Sea Kings,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Mariota,19.31,21.40,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+WR,A. Green,17.25,12.40,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+WR,B. Cooks,17.48,11.80,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+RB,J. Howard,14.32,15.60,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+RB,L. Fournette,11.73,21.40,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+TE,K. Rudolph,11.05,8.60,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+W/R,T. Hill,13.16,23.80,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+K,S. Gostkowski,10.22,9.00,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+DEF,S.,6.56,7.00,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,J. Mixon,10.60,5.40,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,S. Watkins,13.25,10.80,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,J. Rodgers,0.00,0.00,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,C. Coleman,10.36,13.30,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,D. Prescott,18.56,18.80,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+BN,M. Jones Jr.,11.22,8.70,1,Sep 7 - Sep 11,Rump Runners,Wooden Shoes
+,,,,,,,
+QB,K. Cousins,20.54,12.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+WR,L. Fitzgerald,13.98,13.40,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+WR,T. Hilton,13.87,6.70,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+RB,C. Hyde,13.04,13.70,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+RB,C. Thompson,9.46,12.60,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+TE,J. Witten,8.25,15.90,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+W/R,S. Diggs,13.31,21.70,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+K,J. Tucker,11.52,8.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+DEF,A.,6.72,5.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,M. Evans,0.00,0.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,J. Ajayi,0.00,0.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,A. Hooper,8.64,17.80,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,D. Parker,0.00,0.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,A. Luck,0.00,0.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+BN,T. West,10.91,14.00,1,Sep 7 - Sep 11,Wooden Shoes,Rump Runners
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Carr,21.00,20.50,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+WR,J. Jones,18.86,15.80,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+WR,D. Bryant,15.25,15.90,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+RB,M. Lynch,13.71,11.90,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+RB,T. Cohen,10.37,12.80,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+TE,C. Fleener,9.19,9.30,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+W/R,K. Allen,14.10,19.00,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+K,D. Bailey,9.46,7.00,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+DEF,M.,6.40,2.00,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,K. Williams,10.80,2.20,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,A. Abdullah,8.29,8.60,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,D. Woodhead,0.00,0.00,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,B. Marshall,11.34,2.70,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,J. Allen,10.73,18.10,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+BN,K. Golladay,10.79,1.80,2,Sep 12 - Sep 18,Whirling Dervishes,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,20.62,16.30,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+WR,A. Brown,18.14,11.20,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+WR,D. Baldwin,15.15,10.40,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+RB,T. Gurley II,14.19,23.60,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+RB,B. Powell,11.37,1.30,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+TE,D. Walker,10.23,16.20,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+W/R,T. Pryor Sr.,13.95,5.10,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+K,R. Succop,7.98,15.00,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+DEF,H.,7.96,9.00,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,T. Coleman,9.80,9.50,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,D. Henry,6.02,15.20,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,A. Thielen,11.52,7.40,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,J. Brown,0.00,0.00,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,D. Sproles,9.35,7.80,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+BN,P. Perkins,8.48,4.20,2,Sep 12 - Sep 18,Touch Me Gingerly,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,21.14,16.40,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+WR,M. Thomas,16.13,13.90,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+WR,M. Bryant,10.86,15.80,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+RB,L. McCoy,17.14,10.30,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+RB,D. Cook,13.01,8.40,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+TE,J. Graham,14.34,1.10,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+W/R,C. McCaffrey,13.44,8.40,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+K,M. Crosby,8.78,5.00,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+DEF,K. City,7.64,11.00,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,C. Davis,11.47,1.40,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,P. Garcon,12.16,5.60,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,J. Maclin,11.56,10.10,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,D. Martin,0.00,0.00,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,C. Hogan,11.29,15.80,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+BN,J. Gordon,0.00,0.00,2,Sep 12 - Sep 18,Amish Rakefighters,Flying Dutchmen
+,,,,,,,
+QB,A. Rodgers,23.34,19.95,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+WR,J. Nelson,16.19,0.00,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+WR,D. Thomas,14.05,13.10,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+RB,M. Gordon III,15.77,20.80,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+RB,L. Miller,10.50,11.70,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+TE,T. Kelce,12.54,21.30,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+W/R,E. Sanders,12.68,18.20,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+K,M. Bryant,10.12,14.00,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+DEF,A.,9.20,10.00,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,F. Gore,8.04,10.60,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,E. Decker,9.61,6.20,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,D. Johnson,10.66,11.00,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,T. Williams,11.46,9.40,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,J. Stewart,7.65,4.00,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+BN,E. Ebron,9.64,12.20,2,Sep 12 - Sep 18,Flying Dutchmen,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,24.74,32.25,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+WR,D. Hopkins,14.33,14.30,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+WR,J. Crowder,12.15,8.70,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+RB,E. Elliott,18.53,6.20,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+RB,C. Anderson,12.18,27.40,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+TE,J. Reed,12.73,10.80,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+W/R,S. Shepard,9.85,5.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+K,M. Prater,7.39,8.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+DEF,N. England,5.91,2.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,D. Johnson,0.00,0.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,D. McFadden,0.00,0.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,W. Snead IV,0.00,0.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,D. Amendola,0.00,0.00,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,T. Riddick,9.86,6.70,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+BN,Z. Ertz,12.63,14.70,2,Sep 12 - Sep 18,Crooked 6 1/2's,Rump Runners
+,,,,,,,
+QB,M. Mariota,18.75,14.15,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+WR,A. Green,15.61,11.70,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+WR,B. Cooks,18.04,6.30,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+RB,J. Howard,12.53,0.70,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+RB,L. Fournette,13.54,14.10,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+TE,K. Rudolph,12.07,8.50,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+W/R,T. Hill,15.67,8.90,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+K,S. Gostkowski,10.44,12.00,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+DEF,S.,10.47,8.00,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,J. Mixon,9.50,5.10,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,S. Watkins,13.37,5.00,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,J. Rodgers,10.35,12.70,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,C. Coleman,11.07,1.90,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,D. Prescott,16.37,16.30,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+BN,M. Jones Jr.,9.96,6.70,2,Sep 12 - Sep 18,Rump Runners,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Newton,19.75,14.10,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+WR,A. Cooper,16.92,7.30,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+WR,A. Jeffery,13.05,19.20,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+RB,D. Freeman,16.72,24.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+RB,I. Crowell,8.52,3.70,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+TE,G. Olsen,13.13,2.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+W/R,D. Jackson,11.49,6.90,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+K,D. Hopkins,8.50,10.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+DEF,L. Angeles,7.21,2.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,D. Brees,21.43,23.80,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,M. Forte,8.49,12.10,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,K. Britt,10.16,1.20,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,L. Blount,7.80,1.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,M. Wallace,10.78,1.70,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+BN,J. Matthews,11.34,6.00,2,Sep 12 - Sep 18,Flying Pyramids,Free Form Jazz
+,,,,,,,
+QB,M. Stafford,16.96,12.40,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+WR,G. Tate,13.73,6.50,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+WR,M. Crabtree,14.28,23.00,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+RB,D. Murray,13.77,3.80,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+RB,K. Hunt,14.90,25.90,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+TE,R. Gronkowski,14.78,20.60,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+W/R,O. Beckham Jr.,15.26,7.60,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+K,G. Tavecchio,8.44,9.00,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+DEF,C.,9.64,10.00,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,K. Benjamin,12.59,13.70,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,M. Ingram II,11.42,11.60,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,M. Gillislee,10.46,12.90,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,C. Beasley,9.63,7.30,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,R. Matthews,11.04,7.30,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+BN,C. Kupp,11.79,6.30,2,Sep 12 - Sep 18,Free Form Jazz,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Smith,14.69,17.65,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+WR,R. Cobb,14.33,13.00,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+WR,J. Landry,13.33,20.10,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+RB,L. Bell,19.28,13.10,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+RB,T. Montgomery,15.28,26.00,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+TE,M. Bennett,11.04,9.70,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+W/R,J. White,13.73,17.60,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+K,C. Boswell,9.37,16.00,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+DEF,L. Vegas,9.34,9.00,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,D. Adams,11.71,20.90,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,R. Kelley,8.71,7.80,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,T. Ginn Jr.,10.96,5.40,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,T. Eifert,8.70,7.20,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,N. Agholor,10.70,4.90,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+BN,D.,7.35,13.00,2,Sep 12 - Sep 18,Sea Kings,Wooden Shoes
+,,,,,,,
+QB,J. Winston,21.19,13.50,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+WR,L. Fitzgerald,16.03,5.10,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+WR,M. Evans,15.98,19.30,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+RB,C. Hyde,11.06,17.30,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+RB,J. Ajayi,14.96,14.60,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+TE,J. Witten,9.10,22.70,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+W/R,D. Parker,13.21,12.50,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+K,J. Tucker,11.93,6.00,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+DEF,C.,9.29,7.00,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,S. Diggs,13.43,5.10,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,T. Hilton,12.44,8.90,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,A. Hooper,10.62,2.70,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,T. West,12.16,12.50,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,S. Vereen,9.98,8.50,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+BN,C. Thompson,9.09,25.60,2,Sep 12 - Sep 18,Wooden Shoes,Sea Kings
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Carr,19.15,5.40,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+WR,J. Jones,20.04,16.10,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+WR,D. Bryant,15.47,6.20,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+RB,M. Lynch,13.92,3.60,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+RB,J. Allen,12.29,7.80,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+TE,H. Henry,10.79,0.00,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+W/R,K. Allen,14.79,11.10,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+K,D. Bailey,8.74,4.00,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+DEF,M.,8.59,9.00,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,T. Cohen,12.62,14.20,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,C. Fleener,9.08,3.10,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,K. Williams,7.50,0.30,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,A. Abdullah,10.37,11.60,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,B. Marshall,9.75,14.60,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+BN,K. Golladay,10.28,4.50,3,Sep 19 - Sep 25,Whirling Dervishes,Flying Pyramids
+,,,,,,,
+QB,D. Brees,20.60,20.00,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+WR,A. Cooper,15.54,1.60,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+WR,A. Jeffery,13.70,9.60,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+RB,D. Freeman,17.72,22.80,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+RB,I. Crowell,12.58,7.40,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+TE,A. Hooper,8.74,1.90,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+W/R,D. Jackson,11.25,15.40,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+K,D. Hopkins,8.74,9.00,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+DEF,L. Angeles,7.84,4.00,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,G. Olsen,0.00,0.00,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,C. Newton,20.31,9.95,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,M. Forte,9.19,2.50,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,L. Blount,5.28,12.70,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,M. Wallace,10.04,2.00,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+BN,J. Matthews,11.50,9.10,3,Sep 19 - Sep 25,Flying Pyramids,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,20.83,14.60,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+WR,M. Thomas,15.14,18.70,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+WR,M. Bryant,12.54,5.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+RB,L. McCoy,14.83,13.90,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+RB,D. Cook,14.03,27.90,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+TE,J. Graham,10.77,14.20,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+W/R,C. McCaffrey,13.67,20.70,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+K,M. Crosby,9.13,9.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+DEF,K. City,7.58,12.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,C. Davis,0.00,0.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,P. Garcon,12.88,21.20,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,J. Maclin,11.60,1.80,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,D. Martin,0.00,0.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,C. Hogan,9.76,16.80,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+BN,J. Gordon,0.00,0.00,3,Sep 19 - Sep 25,Amish Rakefighters,Crooked 6 1/2's
+,,,,,,,
+QB,T. Brady,23.59,34.50,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+WR,D. Hopkins,13.95,14.60,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+WR,J. Crowder,11.96,9.20,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+RB,E. Elliott,16.07,18.40,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+RB,C. Anderson,12.70,6.30,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+TE,J. Cook,8.68,11.30,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+W/R,S. Shepard,10.12,23.30,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+K,M. Prater,8.91,19.00,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+DEF,N. England,9.98,6.00,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,J. Reed,0.00,0.00,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,D. Johnson,0.00,0.00,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,W. Snead IV,0.00,0.00,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,D. Amendola,9.57,7.80,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,T. Riddick,12.23,7.80,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+BN,Z. Ertz,13.90,14.50,3,Sep 19 - Sep 25,Crooked 6 1/2's,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,23.91,24.95,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+WR,J. Nelson,16.56,17.20,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+WR,D. Thomas,14.12,15.80,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+RB,M. Gordon III,15.28,13.90,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+RB,L. Miller,10.24,7.30,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+TE,T. Kelce,15.21,1.10,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+W/R,E. Sanders,13.91,14.50,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+K,M. Bryant,10.29,14.00,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+DEF,A.,7.23,0.00,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,F. Gore,9.66,12.70,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,E. Decker,10.27,8.90,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,D. Johnson,10.93,22.40,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,T. Williams,11.99,3.50,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,J. Stewart,8.79,7.10,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+BN,E. Ebron,10.40,2.90,3,Sep 19 - Sep 25,Flying Dutchmen,Wooden Shoes
+,,,,,,,
+QB,J. Winston,16.05,16.80,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+WR,L. Fitzgerald,12.85,30.90,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+WR,M. Evans,13.92,13.70,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+RB,C. Hyde,14.02,24.40,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+RB,J. Ajayi,15.75,4.50,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+TE,J. Witten,10.90,1.30,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+W/R,C. Thompson,11.15,27.80,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+K,J. Tucker,10.42,1.00,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+DEF,B.,9.12,-4.00,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,D. Parker,13.11,18.60,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,S. Diggs,12.26,31.30,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,T. Hilton,12.26,25.30,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,T. West,8.48,0.60,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,S. Vereen,10.48,4.30,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+BN,J. Nelson,10.98,0.00,3,Sep 19 - Sep 25,Wooden Shoes,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,19.74,18.10,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+WR,G. Tate,15.65,15.80,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+WR,M. Crabtree,13.44,1.70,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+RB,K. Hunt,18.18,25.30,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+RB,M. Gillislee,12.26,3.10,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+TE,R. Gronkowski,15.00,19.90,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+W/R,O. Beckham Jr.,15.31,22.90,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+K,G. Tavecchio,8.42,4.00,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+DEF,C.,7.09,0.00,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,D. Murray,10.71,19.00,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,K. Benjamin,13.61,2.80,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,M. Ingram II,11.17,10.60,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,C. Beasley,10.05,1.40,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,R. Matthews,10.89,17.70,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+BN,C. Kupp,9.78,3.70,3,Sep 19 - Sep 25,Free Form Jazz,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,17.93,33.25,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+WR,A. Brown,21.09,24.00,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+WR,D. Baldwin,14.36,23.50,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+RB,T. Gurley II,15.50,34.90,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+RB,C. Carson,10.35,10.20,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+TE,D. Walker,12.09,7.10,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+W/R,T. Pryor Sr.,13.91,3.90,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+K,R. Succop,7.86,16.00,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+DEF,G. Bay,7.68,6.00,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,B. Powell,9.04,9.70,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,T. Coleman,9.12,11.90,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,D. Henry,9.17,7.40,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,A. Thielen,10.93,14.80,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,D. Sproles,11.90,1.10,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+BN,H.,4.07,9.00,3,Sep 19 - Sep 25,Touch Me Gingerly,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Prescott,18.54,22.75,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+WR,A. Green,17.65,24.10,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+WR,B. Cooks,16.07,26.10,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+RB,L. Fournette,12.17,17.00,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+RB,J. Rodgers,10.34,1.50,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+TE,K. Rudolph,9.45,1.40,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+W/R,T. Hill,15.95,17.00,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+K,S. Gostkowski,10.16,4.00,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+DEF,S.,6.90,-1.00,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,M. Mariota,16.29,19.95,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,J. Howard,11.35,31.60,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,J. Mixon,10.12,13.10,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,S. Watkins,11.63,22.60,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,M. Jones Jr.,10.76,5.40,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+BN,M. Lee,12.52,10.50,3,Sep 19 - Sep 25,Rump Runners,Sea Kings
+,,,,,,,
+QB,A. Smith,16.83,14.65,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+WR,D. Adams,13.92,9.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+WR,J. Landry,14.27,10.80,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+RB,L. Bell,21.17,21.80,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+RB,T. Montgomery,16.03,13.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+TE,E. Engram,8.14,9.50,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+W/R,J. White,12.74,3.80,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+K,C. Boswell,8.82,5.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+DEF,D.,9.71,4.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,M. Bennett,12.26,4.20,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,R. Higgins,10.18,3.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,R. Cobb,0.00,0.00,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,T. Ginn Jr.,10.24,10.90,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,A. Kamara,10.62,13.20,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+BN,J. Charles,8.74,12.70,3,Sep 19 - Sep 25,Sea Kings,Rump Runners
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Carr,16.50,10.15,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+WR,J. Jones,20.26,6.00,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+WR,D. Bryant,14.41,14.80,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+RB,T. Cohen,12.94,8.80,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+RB,J. White,12.74,15.40,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+TE,C. Fleener,8.90,4.10,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+W/R,K. Allen,15.52,18.80,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+K,D. Bailey,10.16,6.00,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+DEF,C.,9.33,8.00,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,J. Allen,11.54,10.40,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,M. Lynch,11.35,1.20,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,W. Smallwood,12.57,17.90,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,T. Rawls,0.00,0.00,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,E. Lacy,1.09,5.20,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+BN,J. McKissic,0.00,16.50,4,Sep 26 - Oct 2,Whirling Dervishes,Amish Rakefighters
+,,,,,,,
+QB,M. Ryan,21.56,9.90,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+WR,M. Thomas,17.42,19.90,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+WR,C. Hogan,12.81,14.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+RB,L. McCoy,16.48,13.80,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+RB,D. Cook,15.61,12.40,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+TE,J. Graham,13.49,10.10,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+W/R,C. McCaffrey,15.22,8.90,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+K,M. Crosby,8.90,5.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+DEF,K. City,8.30,9.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,P. Garcon,11.70,7.60,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,M. Bryant,10.78,7.80,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,C. Davis,0.00,0.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,D. Martin,0.00,0.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,J. Gordon,0.00,0.00,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+BN,L. Murray,3.63,4.90,4,Sep 26 - Oct 2,Amish Rakefighters,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,23.99,21.55,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+WR,D. Hopkins,14.03,23.70,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+WR,J. Crowder,11.35,0.30,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+RB,E. Elliott,17.88,26.90,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+RB,C. Anderson,14.66,15.20,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+TE,Z. Ertz,14.79,13.10,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+W/R,S. Shepard,10.60,10.40,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+K,M. Prater,8.01,6.00,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+DEF,N. England,9.63,5.00,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,W. Snead IV,0.00,0.00,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,J. Cook,9.10,7.60,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,J. Reed,11.00,5.10,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,D. Johnson,0.00,0.00,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,D. Amendola,8.90,13.20,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+BN,T. Riddick,12.00,2.20,4,Sep 26 - Oct 2,Crooked 6 1/2's,Sea Kings
+,,,,,,,
+QB,A. Smith,17.50,29.25,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+WR,D. Adams,12.24,6.30,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+WR,J. Landry,15.55,10.00,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+RB,L. Bell,19.23,34.60,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+RB,T. Montgomery,15.90,2.80,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+TE,M. Bennett,11.96,9.90,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+W/R,A. Ellington,10.27,19.40,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+K,G. Zuerlein,8.50,27.00,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+DEF,D.,9.14,9.00,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,R. Cobb,11.43,11.40,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,A. Jones,0.41,10.90,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,A. Abdullah,8.45,19.90,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,A. Kamara,10.93,22.60,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,D. Funchess,9.18,20.00,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+BN,W. Fuller V,7.95,13.90,4,Sep 26 - Oct 2,Sea Kings,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,22.46,20.85,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+WR,J. Nelson,17.13,17.50,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+WR,D. Thomas,15.81,2.10,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+RB,M. Gordon III,15.64,3.90,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+RB,L. Miller,11.61,26.10,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+TE,T. Kelce,15.80,21.40,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+W/R,E. Sanders,14.30,6.70,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+K,M. Bryant,10.12,5.00,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+DEF,A.,9.66,6.00,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,F. Gore,8.54,11.00,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,E. Decker,9.93,3.30,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,D. Johnson,11.41,21.00,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,T. Williams,11.84,19.50,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,J. Stewart,6.98,4.80,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+BN,E. Ebron,9.48,4.70,4,Sep 26 - Oct 2,Flying Dutchmen,Free Form Jazz
+,,,,,,,
+QB,M. Stafford,17.05,12.15,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+WR,O. Beckham Jr.,20.76,16.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+WR,G. Tate,14.41,6.10,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+RB,K. Hunt,19.06,16.10,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+RB,D. Murray,13.21,5.50,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+TE,R. Gronkowski,15.00,12.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+W/R,R. Matthews,11.65,7.90,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+K,G. Tavecchio,6.97,4.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+DEF,C.,3.70,2.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,M. Crabtree,0.00,0.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,M. Gillislee,13.27,4.90,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,K. Benjamin,10.37,14.40,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,M. Ingram II,12.25,10.20,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,C. Beasley,10.52,4.70,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+BN,C. Kupp,8.94,14.00,4,Sep 26 - Oct 2,Free Form Jazz,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Brees,22.74,19.70,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+WR,A. Cooper,13.03,2.90,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+WR,A. Jeffery,13.62,8.90,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+RB,D. Freeman,18.00,15.80,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+RB,I. Crowell,11.46,3.70,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+TE,A. Hooper,8.50,10.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+W/R,D. Jackson,11.72,4.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+K,D. Hopkins,8.04,9.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+DEF,L. Angeles,4.54,5.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,G. Olsen,0.00,0.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,C. Newton,16.55,33.20,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,M. Forte,0.00,0.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,L. Blount,8.03,16.60,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,M. Wallace,9.71,14.50,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+BN,J. Matthews,11.34,6.00,4,Sep 26 - Oct 2,Flying Pyramids,Wooden Shoes
+,,,,,,,
+QB,T. Siemian,17.32,12.05,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+WR,M. Evans,16.34,14.70,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+WR,S. Diggs,14.44,14.80,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+RB,J. Ajayi,15.66,6.40,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+RB,C. Thompson,16.05,1.70,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+TE,J. Witten,11.89,1.90,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+W/R,L. Fitzgerald,13.98,10.20,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+K,J. Tucker,10.59,4.00,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+DEF,J.,9.23,15.00,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,C. Hyde,11.78,14.50,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,J. Winston,17.77,26.80,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,D. Parker,13.73,12.90,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,T. Hilton,12.06,6.00,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,A. Morris,1.69,7.60,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+BN,D. Watson,13.77,32.55,4,Sep 26 - Oct 2,Wooden Shoes,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Prescott,19.45,22.10,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+WR,A. Green,19.06,14.30,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+WR,B. Cooks,16.61,7.20,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+RB,L. Fournette,15.73,21.50,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+RB,J. Howard,14.15,14.30,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+TE,K. Rudolph,10.93,5.40,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+W/R,T. Hill,14.19,8.50,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+K,S. Gostkowski,10.16,15.00,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+DEF,S.,10.66,20.00,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,J. Rodgers,12.33,12.80,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,M. Mariota,17.89,16.70,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,J. Mixon,15.13,8.80,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,S. Watkins,13.23,2.70,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,M. Lee,10.93,3.80,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+BN,C. Clay,9.88,16.20,4,Sep 26 - Oct 2,Rump Runners,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,21.78,28.55,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+WR,A. Brown,21.16,7.40,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+WR,D. Baldwin,13.61,8.50,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+RB,T. Gurley II,17.64,31.50,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+RB,C. Carson,13.45,9.60,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+TE,D. Walker,10.58,8.10,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+W/R,T. Pryor Sr.,11.40,13.00,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+K,R. Succop,7.98,2.00,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+DEF,G. Bay,8.62,10.00,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,B. Powell,12.54,29.00,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,T. Coleman,9.70,18.20,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,D. Henry,9.03,0.70,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,A. Thielen,12.74,8.90,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,A. Hurns,11.35,8.20,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+BN,H.,7.09,19.00,4,Sep 26 - Oct 2,Touch Me Gingerly,Rump Runners
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Taylor,17.13,9.60,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+WR,D. Bryant,16.90,13.20,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+WR,K. Allen,16.00,10.70,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+RB,T. Cohen,13.26,1.70,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+RB,J. White,13.42,13.00,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+TE,C. Brate,9.88,14.80,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+W/R,J. Brown,9.19,6.90,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+K,D. Bailey,10.16,8.00,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+DEF,N. York,8.31,8.00,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,W. Smallwood,0.00,0.00,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,D. Carr,0.00,0.00,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,J. Jones,0.00,–,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,J. Allen,10.12,18.50,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,M. Lynch,10.54,12.30,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+BN,J. McKissic,8.47,6.60,5,Oct 3 - Oct 9,Whirling Dervishes,Crooked 6 1/2's
+,,,,,,,
+QB,T. Brady,23.62,14.65,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+WR,D. Hopkins,18.39,18.20,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+WR,D. Amendola,9.95,15.70,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+RB,E. Elliott,18.25,14.20,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+RB,T. Riddick,9.45,9.30,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+TE,Z. Ertz,14.26,15.10,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+W/R,S. Shepard,10.53,1.90,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+K,M. Prater,8.74,6.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+DEF,N. England,5.77,3.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,C. Anderson,0.00,0.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,J. Crowder,0.00,0.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,W. Snead IV,0.00,0.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,J. Cook,7.09,3.50,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,J. Reed,0.00,0.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+BN,D. Johnson,0.00,0.00,5,Oct 3 - Oct 9,Crooked 6 1/2's,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Palmer,12.84,17.55,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+WR,C. Hogan,13.48,18.40,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+WR,P. Garcon,11.48,17.40,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+RB,L. McCoy,14.54,14.90,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+RB,C. McCaffrey,12.04,11.80,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+TE,J. Graham,11.76,12.70,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+W/R,M. Bryant,11.54,8.40,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+K,R. Gould,8.29,13.00,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+DEF,K. City,7.66,10.00,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,D. Martin,10.40,15.20,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,M. Ryan,0.00,–,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,M. Thomas,0.00,–,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,C. Davis,0.00,0.00,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,L. Murray,12.26,6.30,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+BN,W. Gallman Jr.,9.73,13.20,5,Oct 3 - Oct 9,Amish Rakefighters,Wooden Shoes
+,,,,,,,
+QB,J. Winston,19.72,20.80,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+WR,M. Evans,17.46,9.90,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+WR,S. Diggs,15.14,1.40,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+RB,J. Ajayi,13.09,7.90,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+RB,C. Hyde,13.98,2.80,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+TE,E. Engram,9.77,0.00,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+W/R,L. Fitzgerald,11.38,11.10,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+K,J. Elliott,8.46,10.00,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+DEF,M.,10.08,6.00,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,C. Thompson,0.00,0.00,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,D. Parker,11.40,1.60,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,T. Hilton,12.96,24.70,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,D. Watson,17.70,33.15,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,A. Jones,11.09,20.40,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+BN,J. Tucker,8.88,13.00,5,Oct 3 - Oct 9,Wooden Shoes,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,22.62,23.25,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+WR,J. Nelson,15.54,7.40,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+WR,T. Williams,10.42,3.20,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+RB,M. Gordon III,14.20,28.30,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+RB,L. Miller,13.11,10.90,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+TE,T. Kelce,13.67,17.80,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+W/R,D. Johnson,13.30,14.30,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+K,M. Crosby,9.58,5.00,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+DEF,A.,6.94,2.00,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,E. Sanders,0.00,0.00,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,D. Thomas,0.00,0.00,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,F. Gore,9.94,11.60,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,J. Stewart,7.94,7.40,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,E. Ebron,8.55,1.60,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+BN,M. Bryant,0.00,–,5,Oct 3 - Oct 9,Flying Dutchmen,Sea Kings
+,,,,,,,
+QB,A. Smith,16.14,27.10,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+WR,J. Landry,12.48,12.40,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+WR,W. Fuller V,10.52,14.20,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+RB,L. Bell,20.93,19.30,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+RB,A. Ellington,12.01,15.30,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+TE,D. Allen,6.82,0.00,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+W/R,R. Cobb,12.78,6.90,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+K,G. Zuerlein,8.88,4.00,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+DEF,L. Vegas,8.76,0.00,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,A. Abdullah,12.42,4.40,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,T. Montgomery,0.00,–,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,D. Adams,8.24,19.60,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,A. Kamara,0.00,–,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,D. Funchess,9.78,15.30,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+BN,D.,0.00,–,5,Oct 3 - Oct 9,Sea Kings,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Newton,18.65,26.75,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+WR,A. Cooper,13.29,1.80,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+WR,A. Jeffery,13.94,6.10,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+RB,I. Crowell,8.46,8.70,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+RB,L. Blount,10.97,7.40,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+TE,J. Witten,11.64,12.10,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+W/R,D. Jackson,12.76,15.60,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+K,A. Vinatieri,8.56,18.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+DEF,L. Angeles,6.44,8.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,D. Freeman,0.00,0.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,D. Brees,0.00,–,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,G. Olsen,0.00,0.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,M. Forte,0.00,0.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,M. Wallace,9.09,16.30,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+BN,J. Matthews,0.00,0.00,5,Oct 3 - Oct 9,Flying Pyramids,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,19.18,12.50,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+WR,A. Brown,20.74,25.70,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+WR,D. Baldwin,13.84,7.70,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+RB,T. Gurley II,16.72,5.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+RB,B. Powell,13.71,7.30,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+TE,D. Walker,12.04,5.50,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+W/R,A. Thielen,11.89,9.50,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+K,K. Fairbairn,8.09,2.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+DEF,P.,9.10,10.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,T. Pryor Sr.,0.00,0.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,T. Coleman,0.00,0.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,D. Henry,8.26,0.90,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,J. McKinnon,9.21,26.60,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,E. Lacy,9.52,3.80,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+BN,H.,6.75,-3.00,5,Oct 3 - Oct 9,Touch Me Gingerly,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,16.20,15.45,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+WR,O. Beckham Jr.,20.24,18.50,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+WR,G. Tate,13.81,9.80,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+RB,K. Hunt,18.40,14.60,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+RB,D. Murray,11.58,8.90,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+TE,J. James,8.13,5.40,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+W/R,K. Benjamin,11.83,12.80,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+K,G. Tavecchio,7.34,5.00,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+DEF,C.,6.35,8.00,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,R. Matthews,11.71,6.10,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,R. Gronkowski,0.00,0.00,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,M. Crabtree,10.44,17.20,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,M. Gillislee,10.52,5.20,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,M. Ingram II,0.00,0.00,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+BN,C. Kupp,9.07,7.40,5,Oct 3 - Oct 9,Free Form Jazz,Rump Runners
+,,,,,,,
+QB,D. Prescott,19.64,29.25,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+WR,A. Green,16.70,26.90,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+WR,B. Cooks,14.59,13.50,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+RB,L. Fournette,14.36,31.40,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+RB,J. Howard,12.05,7.60,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+TE,C. Clay,9.71,5.10,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+W/R,T. Hill,14.40,16.80,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+K,S. Gostkowski,10.20,15.00,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+DEF,B.,7.48,12.00,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,K. Rudolph,9.82,13.50,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,M. Mariota,0.00,0.00,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,J. Mixon,12.68,11.10,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,S. Watkins,10.36,0.00,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,M. Lee,9.30,6.90,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+BN,S.,7.16,16.00,5,Oct 3 - Oct 9,Rump Runners,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,18.64,29.10,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+WR,K. Allen,16.71,9.50,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+WR,J. Jones,18.93,13.20,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+RB,T. Cohen,12.56,7.65,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+RB,J. White,12.74,8.50,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+TE,A. Hooper,8.90,11.80,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+W/R,M. Lynch,11.82,6.30,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+K,D. Hopkins,9.25,9.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+DEF,W.,9.25,5.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,S. Vereen,8.38,0.40,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,J. Brown,9.55,4.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,D. Bryant,0.00,0.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,W. Smallwood,0.00,0.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,J. Allen,12.96,9.60,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+BN,J. McKissic,0.00,0.00,6,Oct 10 - Oct 16,Whirling Dervishes,Flying Pyramids
+,,,,,,,
+QB,D. Brees,23.24,11.40,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+WR,A. Cooper,12.87,7.80,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+WR,A. Jeffery,13.03,11.10,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+RB,I. Crowell,9.73,9.30,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+RB,D. Freeman,17.18,9.90,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+TE,M. Bennett,9.70,4.20,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+W/R,D. Jackson,12.09,9.80,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+K,A. Vinatieri,8.19,12.00,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+DEF,L. Angeles,6.08,22.00,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,C. Newton,19.63,22.05,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,L. Blount,10.58,8.70,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,J. Witten,0.00,0.00,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,G. Olsen,0.00,–,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,M. Forte,9.53,16.10,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+BN,M. Wallace,10.30,6.00,6,Oct 10 - Oct 16,Flying Pyramids,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,19.60,13.40,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+WR,C. Hogan,13.50,2.90,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+WR,M. Thomas,16.26,4.10,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+RB,C. McCaffrey,13.52,19.40,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+RB,D. Martin,12.07,15.40,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+TE,A. Seferian-Jenkins,10.66,13.60,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+W/R,P. Garcon,12.27,10.50,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+K,R. Gould,7.69,8.00,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+DEF,K. City,7.22,4.00,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,J. Graham,0.00,0.00,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,L. McCoy,0.00,0.00,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,M. Bryant,9.46,4.70,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,W. Gallman Jr.,7.74,5.20,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,D. McFadden,0.00,–,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+BN,C. Davis,0.00,0.00,6,Oct 10 - Oct 16,Amish Rakefighters,Free Form Jazz
+,,,,,,,
+QB,M. Stafford,18.45,15.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+WR,G. Tate,15.09,19.60,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+WR,M. Crabtree,13.08,14.20,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+RB,K. Hunt,18.26,16.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+RB,M. Ingram II,13.40,30.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+TE,R. Gronkowski,15.23,20.30,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+W/R,K. Benjamin,12.59,18.90,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+K,G. Tavecchio,9.97,5.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+DEF,C.,6.48,4.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,D. Murray,13.24,18.70,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,R. Matthews,12.13,10.90,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,M. Gillislee,9.49,2.40,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,C. Kupp,8.63,5.50,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,D. Fells,2.31,7.60,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+BN,J.,7.92,5.00,6,Oct 10 - Oct 16,Free Form Jazz,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,23.97,16.75,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+WR,D. Hopkins,17.71,6.90,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+WR,D. Amendola,10.08,7.00,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+RB,T. Riddick,9.40,10.30,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+RB,C. Anderson,13.55,1.70,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+TE,Z. Ertz,14.00,9.80,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+W/R,J. Crowder,12.01,5.60,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+K,M. Prater,9.30,9.00,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+DEF,N. England,7.59,11.00,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,S. Shepard,0.00,0.00,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,E. Elliott,0.00,–,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,W. Snead IV,10.82,2.10,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,J. Cook,9.98,3.40,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,J. Reed,9.35,7.70,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+BN,D. Johnson,0.00,0.00,6,Oct 10 - Oct 16,Crooked 6 1/2's,Wooden Shoes
+,,,,,,,
+QB,D. Watson,20.87,22.55,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+WR,M. Evans,14.12,15.50,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+WR,T. Hilton,14.03,2.90,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+RB,J. Ajayi,11.72,13.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+RB,C. Thompson,11.70,17.80,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+TE,H. Henry,9.77,14.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+W/R,L. Fitzgerald,14.39,24.80,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+K,J. Tucker,9.77,12.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+DEF,A.,8.33,3.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,S. Diggs,0.00,–,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,C. Hyde,11.32,24.50,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,A. Jones,9.46,5.20,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,D. Parker,0.00,0.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,A. Morris,0.00,0.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+BN,O. Darkwa,9.17,14.00,6,Oct 10 - Oct 16,Wooden Shoes,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,22.80,0.90,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+WR,J. Nelson,16.43,12.00,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+WR,E. Sanders,12.44,12.60,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+RB,M. Gordon III,17.98,33.00,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+RB,L. Miller,14.09,11.10,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+TE,T. Kelce,15.08,7.70,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+W/R,D. Johnson,13.33,6.90,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+K,M. Bryant,10.21,7.00,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+DEF,A.,6.79,6.00,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,T. Williams,11.34,3.70,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,D. Thomas,12.38,21.30,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,F. Gore,7.83,8.70,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,E. Ebron,6.75,1.90,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,E. Engram,9.47,16.20,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+BN,C. Palmer,18.26,20.75,6,Oct 10 - Oct 16,Flying Dutchmen,Touch Me Gingerly
+,,,,,,,
+QB,P. Rivers,19.09,16.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+WR,A. Brown,18.94,26.50,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+WR,T. Pryor Sr.,11.15,5.30,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+RB,T. Gurley II,16.21,13.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+RB,J. McKinnon,13.95,21.90,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+TE,D. Walker,12.73,5.40,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+W/R,A. Thielen,13.67,18.60,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+K,K. Fairbairn,9.34,6.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+DEF,H.,8.12,22.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,R. Wilson,0.00,–,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,B. Powell,0.00,0.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,D. Baldwin,0.00,–,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,T. Coleman,10.42,10.60,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,E. Lacy,0.00,–,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+BN,P.,6.18,8.00,6,Oct 10 - Oct 16,Touch Me Gingerly,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Wentz,16.43,20.60,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+WR,B. Cooks,15.78,15.30,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+WR,M. Lee,10.98,15.00,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+RB,L. Fournette,16.28,21.80,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+RB,J. Howard,11.98,18.60,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+TE,K. Rudolph,10.85,9.70,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+W/R,T. Hill,14.66,7.50,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+K,S. Gostkowski,9.75,6.00,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+DEF,B.,9.30,20.00,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,M. Mariota,17.75,16.30,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,A. Green,0.00,0.00,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,D. Prescott,0.00,–,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,J. Mixon,0.00,–,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,S. Watkins,10.56,2.10,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+BN,S.,0.00,–,6,Oct 10 - Oct 16,Rump Runners,Sea Kings
+,,,,,,,
+QB,A. Smith,17.72,16.60,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+WR,D. Adams,12.89,13.40,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+WR,D. Funchess,10.21,6.60,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+RB,L. Bell,20.09,28.10,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+RB,A. Ellington,17.12,0.00,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+TE,E. Dickson,8.12,7.60,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+W/R,A. Kamara,14.21,11.70,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+K,H. Butker,9.99,8.00,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+DEF,D.,14.17,6.00,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,W. Fuller V,10.42,11.20,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,R. Cobb,11.92,5.80,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,A. Abdullah,11.55,5.40,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,T. Montgomery,10.29,4.10,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,A. Peterson,10.04,25.40,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+BN,C. Brate,9.05,16.60,6,Oct 10 - Oct 16,Sea Kings,Rump Runners
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,17.43,23.95,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+WR,J. Jones,17.95,21.90,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+WR,D. Bryant,15.91,16.30,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+RB,J. White,12.94,12.70,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+RB,C. Ivory,14.04,8.70,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+TE,A. Hooper,9.41,1.60,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+W/R,K. Allen,12.68,7.10,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+K,R. Succop,9.29,15.00,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+DEF,M.,10.28,6.00,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,T. Cohen,10.55,8.00,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,M. Lynch,10.67,0.90,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,W. Smallwood,10.08,5.90,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,J. Allen,10.63,12.90,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,J. McKissic,10.09,5.30,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+BN,N. Agholor,9.26,11.50,7,Oct 17 - Oct 23,Whirling Dervishes,Amish Rakefighters
+,,,,,,,
+QB,M. Ryan,20.85,18.35,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+WR,C. Hogan,13.50,11.10,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+WR,M. Thomas,15.64,15.20,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+RB,C. McCaffrey,15.47,11.60,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+RB,L. McCoy,17.11,27.20,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+TE,J. Graham,12.66,11.10,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+W/R,P. Garcon,13.95,9.90,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+K,R. Gould,6.85,5.00,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+DEF,K. City,7.25,1.00,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,D. Martin,11.50,10.00,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,A. Seferian-Jenkins,11.15,8.10,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,D. McFadden,0.00,0.00,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,C. Davis,0.00,0.00,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,M. Sanu,10.89,12.50,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+BN,D. Lewis,7.43,9.20,7,Oct 17 - Oct 23,Amish Rakefighters,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,21.29,18.95,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+WR,D. Amendola,9.05,4.70,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+WR,S. Shepard,0.00,0.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+RB,C. Anderson,11.64,7.10,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+RB,E. Elliott,19.42,37.90,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+TE,Z. Ertz,14.50,16.90,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+W/R,J. Crowder,9.17,5.10,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+K,G. Zuerlein,8.30,17.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+DEF,N. England,5.82,7.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,W. Snead IV,0.00,0.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,T. Riddick,0.00,0.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,D. Hopkins,0.00,0.00,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,J. Cook,8.28,16.70,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,J. Reed,11.39,20.40,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+BN,D. Johnson,0.00,–,7,Oct 17 - Oct 23,Crooked 6 1/2's,Free Form Jazz
+,,,,,,,
+QB,J. Goff,14.46,20.05,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+WR,M. Crabtree,12.67,8.40,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+WR,K. Benjamin,11.81,9.50,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+RB,K. Hunt,18.35,15.70,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+RB,M. Ingram II,12.89,21.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+TE,R. Gronkowski,15.47,8.10,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+W/R,R. Matthews,11.13,7.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+K,G. Tavecchio,6.67,7.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+DEF,C.,8.55,13.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,M. Stafford,0.00,0.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,G. Tate,0.00,0.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,D. Murray,9.47,10.60,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,C. Kupp,9.02,12.10,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,D. Fells,0.00,–,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+BN,J.,7.64,20.00,7,Oct 17 - Oct 23,Free Form Jazz,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Palmer,17.24,4.10,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+WR,J. Nelson,11.76,2.30,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+WR,D. Thomas,14.80,2.90,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+RB,M. Gordon III,16.69,5.40,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+RB,D. Johnson,12.02,13.10,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+TE,T. Kelce,14.69,10.30,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+W/R,F. Gore,10.49,3.40,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+K,M. Bryant,10.12,1.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+DEF,A.,7.00,2.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,L. Miller,0.00,0.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,E. Sanders,0.00,0.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,A. Rodgers,0.00,0.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,T. Williams,8.70,2.10,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,E. Ebron,0.00,0.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+BN,E. Engram,10.36,15.00,7,Oct 17 - Oct 23,Flying Dutchmen,Rump Runners
+,,,,,,,
+QB,D. Prescott,20.83,29.30,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+WR,B. Cooks,15.82,13.50,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+WR,A. Green,17.32,7.10,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+RB,J. Howard,14.50,6.50,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+RB,J. Mixon,11.76,9.80,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+TE,K. Rudolph,10.96,9.30,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+W/R,T. Hill,15.35,22.20,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+K,S. Gostkowski,10.31,11.00,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+DEF,S.,9.36,7.00,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,L. Fournette,0.00,0.00,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,C. Wentz,19.06,29.70,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,M. Lee,10.59,11.20,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,M. Mariota,17.92,10.95,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,S. Watkins,9.51,7.20,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+BN,B.,6.69,2.00,7,Oct 17 - Oct 23,Rump Runners,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Brees,19.82,21.45,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+WR,A. Cooper,11.29,38.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+WR,A. Jeffery,12.67,5.70,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+RB,I. Crowell,10.35,11.10,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+RB,D. Freeman,16.13,12.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+TE,J. Witten,10.19,12.40,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+W/R,D. Jackson,10.65,12.30,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+K,A. Vinatieri,7.89,0.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+DEF,L. Angeles,6.35,17.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,C. Newton,19.34,9.55,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,L. Blount,8.96,2.90,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,G. Olsen,0.00,0.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,M. Forte,7.98,13.20,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,M. Wallace,9.37,1.90,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+BN,D. Parker,0.00,0.00,7,Oct 17 - Oct 23,Flying Pyramids,Wooden Shoes
+,,,,,,,
+QB,T. Taylor,15.46,21.70,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+WR,M. Evans,14.94,18.80,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+WR,J. Landry,13.59,19.30,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+RB,J. Ajayi,13.54,10.70,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+RB,C. Hyde,13.73,12.80,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+TE,H. Henry,10.50,11.30,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+W/R,L. Fitzgerald,15.11,5.90,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+K,J. Tucker,8.99,14.00,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+DEF,N. Orleans,6.21,4.00,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,D. Watson,0.00,–,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,C. Thompson,11.04,14.40,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,T. Hilton,12.84,4.70,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,S. Diggs,0.00,0.00,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,O. Darkwa,10.81,7.80,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+BN,B. Powell,11.69,10.30,7,Oct 17 - Oct 23,Wooden Shoes,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Smith,17.07,26.10,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+WR,D. Adams,10.22,3.20,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+WR,R. Woods,10.75,11.30,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+RB,L. Bell,21.76,22.20,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+RB,A. Peterson,11.90,4.30,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+TE,C. Brate,10.68,12.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+W/R,A. Kamara,13.48,15.70,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+K,H. Butker,9.06,14.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+DEF,T.,8.31,12.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,D. Funchess,10.90,8.10,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,W. Fuller V,0.00,0.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,A. Abdullah,0.00,0.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,T. Montgomery,10.77,2.50,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,A. Jones,10.03,22.80,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+BN,D.,7.97,3.00,7,Oct 17 - Oct 23,Sea Kings,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,17.11,26.70,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+WR,A. Brown,19.67,13.50,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+WR,D. Baldwin,12.68,21.20,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+RB,T. Gurley II,17.52,25.40,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+RB,J. McKinnon,13.75,8.70,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+TE,D. Walker,12.34,11.30,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+W/R,A. Thielen,15.31,9.10,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+K,D. Bailey,9.57,2.00,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+DEF,P.,6.55,6.00,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,T. Pryor Sr.,9.76,3.40,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,P. Rivers,14.48,15.15,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,T. Coleman,9.97,1.60,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,E. Lacy,5.55,5.30,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,D. Henry,9.82,4.40,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+BN,H.,0.00,–,7,Oct 17 - Oct 23,Touch Me Gingerly,Sea Kings
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,17.81,12.15,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+WR,J. Jones,17.25,10.40,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+WR,D. Bryant,15.99,7.90,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+RB,J. White,10.09,13.70,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+RB,T. Cohen,8.66,7.80,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+TE,T. Kroft,8.17,9.60,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+W/R,K. Allen,15.39,10.10,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+K,M. Prater,8.62,18.00,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+DEF,M.,12.82,8.00,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,M. Lynch,0.00,0.00,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,W. Smallwood,9.69,2.40,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,J. Allen,9.04,6.70,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,N. Agholor,12.18,5.60,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,J. Maclin,7.46,11.30,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+BN,A. Morris,2.40,0.30,8,Oct 24 - Oct 30,Whirling Dervishes,Flying Dutchmen
+,,,,,,,
+QB,M. Ryan,17.71,16.40,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+WR,D. Thomas,13.06,11.60,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+WR,T. Williams,8.20,3.40,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+RB,M. Gordon III,15.94,20.90,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+RB,L. Miller,11.87,19.30,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+TE,T. Kelce,15.08,23.30,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+W/R,D. Johnson,10.14,8.30,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+K,M. Bryant,8.79,14.00,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+DEF,C.,9.38,14.00,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,E. Sanders,4.01,0.00,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,F. Gore,8.56,14.10,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,J. Nelson,0.00,0.00,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,E. Ebron,7.00,7.80,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,E. Engram,0.00,–,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+BN,A.,0.00,–,8,Oct 24 - Oct 30,Flying Dutchmen,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,J. Winston,17.26,5.80,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+WR,C. Hogan,13.08,11.00,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+WR,M. Thomas,14.02,14.70,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+RB,C. McCaffrey,14.07,10.20,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+RB,L. McCoy,17.68,29.30,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+TE,J. Graham,11.76,13.90,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+W/R,P. Garcon,12.90,3.70,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+K,J. Elliott,9.84,10.00,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+DEF,K. City,8.33,20.00,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,D. Martin,10.47,8.50,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,D. McFadden,0.00,0.00,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,C. Davis,0.00,0.00,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,M. Sanu,12.07,16.40,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,D. Lewis,12.37,7.40,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+BN,J. Smith-Schuster,8.10,29.30,8,Oct 24 - Oct 30,Amish Rakefighters,Wooden Shoes
+,,,,,,,
+QB,D. Watson,17.09,32.80,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+WR,M. Evans,15.43,11.00,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+WR,J. Landry,12.07,8.30,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+RB,J. Ajayi,12.01,8.10,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+RB,C. Hyde,10.71,8.70,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+TE,H. Henry,10.03,3.10,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+W/R,B. Powell,8.41,9.10,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+K,J. Tucker,10.44,13.00,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+DEF,N. Orleans,7.08,8.00,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,C. Thompson,10.61,15.40,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,L. Fitzgerald,0.00,–,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,T. Hilton,12.29,3.50,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,S. Diggs,14.07,6.60,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,O. Darkwa,0.00,–,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+BN,M. Mack,5.36,12.30,8,Oct 24 - Oct 30,Wooden Shoes,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,20.75,19.85,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+WR,D. Hopkins,13.43,33.40,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+WR,W. Snead IV,7.81,0.00,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+RB,E. Elliott,18.10,26.40,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+RB,T. Riddick,10.06,6.50,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+TE,Z. Ertz,16.12,10.40,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+W/R,J. Crowder,10.72,22.50,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+K,C. Boswell,8.86,8.00,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+DEF,N. England,5.92,11.00,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,C. Anderson,10.43,9.50,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,D. Amendola,10.58,3.40,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,S. Shepard,0.00,–,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,J. Cook,8.94,9.70,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,J. Reed,10.98,1.50,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+BN,D. Johnson,0.00,0.00,8,Oct 24 - Oct 30,Crooked 6 1/2's,Flying Pyramids
+,,,,,,,
+QB,D. Brees,18.67,14.75,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+WR,A. Cooper,13.27,10.20,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+WR,A. Jeffery,12.56,13.20,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+RB,I. Crowell,8.76,19.80,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+RB,D. Freeman,15.91,7.10,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+TE,J. Witten,9.81,6.10,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+W/R,D. Jackson,10.79,6.70,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+K,A. Vinatieri,6.68,11.00,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+DEF,B.,7.80,29.00,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,C. Newton,19.49,13.10,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,L. Blount,11.75,12.20,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,G. Olsen,0.00,0.00,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,M. Forte,8.90,11.20,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,M. Wallace,0.00,0.00,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+BN,L. Angeles,0.00,–,8,Oct 24 - Oct 30,Flying Pyramids,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,14.95,22.25,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+WR,M. Crabtree,12.51,13.30,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+WR,K. Benjamin,14.14,9.90,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+RB,K. Hunt,18.26,9.80,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+RB,M. Ingram II,13.80,17.90,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+TE,R. Gronkowski,14.99,13.70,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+W/R,G. Tate,9.18,13.60,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+K,G. Tavecchio,7.51,2.00,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+DEF,C.,6.01,16.00,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,R. Matthews,0.00,0.00,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,J. Goff,0.00,0.00,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,D. Murray,0.00,–,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,C. Kupp,0.00,–,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,D. Fells,5.10,2.20,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+BN,J.,0.00,–,8,Oct 24 - Oct 30,Free Form Jazz,Sea Kings
+,,,,,,,
+QB,A. Smith,17.76,14.40,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+WR,D. Funchess,12.30,3.10,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+WR,K. Stills,9.57,11.50,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+RB,L. Bell,21.82,14.10,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+RB,A. Kamara,12.13,16.60,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+TE,C. Brate,10.66,10.40,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+W/R,J. Doctson,9.54,4.10,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+K,H. Butker,10.60,21.00,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+DEF,A.,6.52,6.00,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,A. Abdullah,10.25,6.80,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,R. Woods,0.00,–,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,A. Peterson,0.00,0.00,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,W. Fuller V,9.10,23.50,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,A. Jones,0.00,–,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+BN,A. Collins,8.05,16.30,8,Oct 24 - Oct 30,Sea Kings,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,C. Wentz,20.70,17.25,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+WR,B. Cooks,15.94,7.60,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+WR,A. Green,18.28,8.70,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+RB,J. Howard,13.73,15.10,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+RB,J. Mixon,11.77,11.90,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+TE,K. Rudolph,11.27,11.70,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+W/R,T. Hill,13.17,3.80,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+K,S. Gostkowski,10.35,14.00,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+DEF,S.,8.86,13.00,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,D. Prescott,19.24,8.75,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,L. Fournette,0.00,0.00,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,M. Lee,0.00,0.00,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,S. Watkins,0.00,0.00,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,L. Murray,8.64,5.70,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+BN,T. Ginn Jr.,8.70,8.80,8,Oct 24 - Oct 30,Rump Runners,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,18.02,35.60,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+WR,A. Brown,19.05,12.00,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+WR,D. Baldwin,14.78,11.40,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+RB,J. McKinnon,13.45,26.20,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+RB,T. Coleman,9.68,11.40,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+TE,J. Doyle,7.68,27.10,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+W/R,A. Thielen,12.06,17.80,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+K,W. Lutz,8.86,10.00,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+DEF,P.,10.79,20.00,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,D. Walker,0.00,–,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,T. Gurley II,0.00,0.00,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,P. Rivers,17.97,11.60,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,D. Henry,0.00,–,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,J. Richard,9.56,8.60,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+BN,H.,5.60,0.00,8,Oct 24 - Oct 30,Touch Me Gingerly,Rump Runners
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,14.71,10.75,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+WR,J. Jones,17.44,17.80,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+WR,D. Bryant,16.11,13.30,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+RB,M. Lynch,10.48,20.30,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+RB,J. Allen,8.50,16.50,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+TE,V. Davis,9.65,13.20,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+W/R,C. Samuel,7.54,6.70,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+K,M. Prater,9.06,13.00,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+DEF,N. Orleans,7.29,18.00,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,J. Maclin,11.02,17.80,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,A. Morris,2.77,1.10,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,T. Cohen,0.00,–,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,K. Allen,0.00,–,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,J. White,0.00,–,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+BN,M.,0.00,–,9,Oct 31 - Nov 6,Whirling Dervishes,Wooden Shoes
+,,,,,,,
+QB,T. Taylor,16.11,27.75,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+WR,M. Evans,16.21,2.30,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+WR,J. Landry,13.16,12.20,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+RB,C. Hyde,11.49,21.50,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+RB,C. Thompson,10.80,7.10,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+TE,A. Hooper,7.98,6.60,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+W/R,L. Fitzgerald,13.42,12.00,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+K,J. Tucker,10.21,9.00,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+DEF,D.,5.87,6.00,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,H. Henry,0.00,–,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,J. Ajayi,6.82,13.70,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,S. Diggs,0.00,0.00,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,R. Anderson,10.01,11.80,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,J. Reed,0.00,0.00,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+BN,T. Yeldon,13.85,5.20,9,Oct 31 - Nov 6,Wooden Shoes,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,J. Winston,16.40,4.15,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+WR,M. Thomas,15.94,14.50,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+WR,M. Sanu,11.09,8.30,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+RB,C. McCaffrey,12.74,20.40,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+RB,L. McCoy,16.65,2.50,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+TE,J. Graham,13.03,10.90,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+W/R,D. Martin,11.82,0.70,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+K,J. Elliott,8.05,10.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+DEF,B.,8.73,0.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,C. Hogan,0.00,0.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,D. McFadden,0.00,0.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,C. Davis,9.53,4.80,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,J. Smith-Schuster,0.00,–,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,J. Gordon,0.00,0.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+BN,D. Westbrook,0.00,0.00,9,Oct 31 - Nov 6,Amish Rakefighters,Crooked 6 1/2's
+,,,,,,,
+QB,D. Carr,18.09,15.70,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+WR,D. Hopkins,12.31,17.60,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+WR,S. Shepard,11.86,12.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+RB,C. Anderson,9.79,1.30,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+RB,E. Elliott,19.46,15.30,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+TE,J. Cook,9.99,20.60,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+W/R,O. Darkwa,10.07,9.90,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+K,G. Zuerlein,10.13,17.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+DEF,K. City,5.04,0.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,Z. Ertz,0.00,0.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,W. Snead IV,5.10,-2.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,J. Crowder,0.00,0.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,T. Riddick,9.25,11.30,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,T. Brady,0.00,0.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+BN,D. Amendola,0.00,0.00,9,Oct 31 - Nov 6,Crooked 6 1/2's,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,16.97,19.55,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+WR,D. Thomas,11.46,18.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+WR,J. Nelson,12.10,7.50,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+RB,L. Miller,12.89,12.10,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+RB,F. Gore,9.84,10.70,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+TE,T. Kelce,15.21,17.30,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+W/R,T. Hilton,13.02,28.50,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+K,M. Bryant,8.38,7.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+DEF,A.,8.98,13.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,M. Gordon III,0.00,0.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,D. Johnson,0.00,0.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,T. Williams,0.00,0.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,E. Sanders,9.71,4.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,E. Engram,12.16,14.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+BN,C.,5.82,2.00,9,Oct 31 - Nov 6,Flying Dutchmen,Sea Kings
+,,,,,,,
+QB,A. Smith,19.70,19.05,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+WR,D. Funchess,10.47,13.60,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+WR,W. Fuller V,9.10,5.20,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+RB,A. Kamara,12.90,28.20,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+RB,A. Jones,12.17,3.10,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+TE,C. Brate,9.97,1.90,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+W/R,A. Peterson,12.73,16.70,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+K,H. Butker,10.68,5.00,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+DEF,G. Bay,8.00,2.00,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,K. Stills,7.57,5.80,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,J. Doctson,8.90,8.90,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,L. Bell,0.00,0.00,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,A. Abdullah,10.33,10.70,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,R. Woods,10.33,17.00,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+BN,A. Collins,11.02,5.60,9,Oct 31 - Nov 6,Sea Kings,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Brees,20.16,19.35,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+WR,A. Cooper,13.64,9.80,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+WR,A. Jeffery,10.64,20.40,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+RB,D. Freeman,13.11,10.40,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+RB,L. Blount,7.74,3.70,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+TE,J. Witten,10.14,1.50,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+W/R,D. Jackson,11.27,5.30,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+K,A. Vinatieri,7.74,10.00,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+DEF,L. Angeles,7.47,11.00,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,I. Crowell,0.00,0.00,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,C. Newton,18.50,21.45,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,G. Olsen,0.00,0.00,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,M. Forte,8.25,25.60,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,M. Wallace,7.20,8.90,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+BN,B.,6.18,5.00,9,Oct 31 - Nov 6,Flying Pyramids,Rump Runners
+,,,,,,,
+QB,D. Prescott,20.39,27.15,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+WR,A. Green,13.35,1.60,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+WR,T. Ginn Jr.,10.34,12.90,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+RB,J. Mixon,10.15,13.60,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+RB,C. Ivory,10.59,13.40,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+TE,A. Seferian-Jenkins,9.06,4.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+W/R,T. Hill,14.14,12.30,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+K,S. Hauschka,8.03,3.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+DEF,S.,9.35,11.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,L. Fournette,0.00,0.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,K. Rudolph,0.00,0.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,B. Cooks,0.00,0.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,C. Wentz,18.69,22.75,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,J. Howard,0.00,0.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+BN,S. Gostkowski,0.00,0.00,9,Oct 31 - Nov 6,Rump Runners,Flying Pyramids
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,16.07,24.05,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+WR,M. Crabtree,11.44,7.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+WR,G. Tate,13.44,18.30,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+RB,K. Hunt,18.76,10.10,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+RB,M. Ingram II,14.07,8.90,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+TE,O. Howard,7.78,-0.40,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+W/R,C. Kupp,10.62,8.40,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+K,G. Tavecchio,7.96,11.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+DEF,J.,9.31,12.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,R. Gronkowski,0.00,0.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,K. Benjamin,0.00,0.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,R. Matthews,10.08,14.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,J. Goff,16.26,27.55,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,D. Murray,10.24,6.10,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+BN,C.,5.74,5.00,9,Oct 31 - Nov 6,Free Form Jazz,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,20.47,24.55,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+WR,D. Baldwin,13.57,20.80,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+WR,D. Parker,11.70,12.60,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+RB,T. Coleman,10.15,6.40,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+RB,T. Gurley II,17.47,24.40,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+TE,J. Doyle,12.74,14.30,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+W/R,M. Lee,10.94,18.50,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+K,W. Lutz,10.39,7.00,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+DEF,P.,9.01,8.00,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,A. Thielen,0.00,–,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,A. Brown,0.00,0.00,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,J. McKinnon,0.00,0.00,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,D. Walker,7.92,12.10,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,J. Richard,7.13,1.40,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+BN,P.,0.00,–,9,Oct 31 - Nov 6,Touch Me Gingerly,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,16.72,29.85,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+WR,J. Jones,18.25,11.70,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+WR,D. Bryant,12.60,7.90,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+RB,J. White,12.67,7.80,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+RB,T. Cohen,9.93,2.10,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+TE,V. Davis,11.49,14.60,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+W/R,K. Allen,11.29,9.40,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+K,M. Prater,9.53,9.00,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+DEF,M.,6.61,2.00,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,C. Samuel,7.28,9.50,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,J. Allen,0.00,0.00,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,M. Lynch,0.00,0.00,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,J. Maclin,0.00,–,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,A. Morris,8.83,5.30,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+BN,D. Woodhead,0.00,–,10,Nov 7 - Nov 13,Whirling Dervishes,Sea Kings
+,,,,,,,
+QB,B. Roethlisberger,17.60,18.30,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+WR,D. Funchess,11.09,20.20,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+WR,R. Woods,10.69,31.10,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+RB,A. Kamara,13.85,24.80,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+RB,L. Bell,25.01,16.20,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+TE,C. Brate,10.50,2.00,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+W/R,A. Peterson,9.26,3.20,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+K,J. Lambo,8.46,6.00,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+DEF,N. Orleans,6.71,8.00,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,A. Jones,8.73,2.20,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,A. Smith,0.00,0.00,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,W. Fuller V,8.34,3.50,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,A. Abdullah,8.69,12.50,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,A. Collins,0.00,0.00,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+BN,H. Butker,0.00,–,10,Nov 7 - Nov 13,Sea Kings,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,J. McCown,16.87,14.10,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+WR,M. Thomas,15.32,20.70,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+WR,M. Sanu,11.22,5.90,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+RB,C. McCaffrey,14.41,17.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+RB,L. McCoy,19.59,9.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+TE,J. Graham,11.27,14.70,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+W/R,J. Smith-Schuster,11.65,17.70,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+K,R. Succop,8.75,7.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+DEF,N. England,7.14,13.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,D. Martin,7.88,5.10,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,C. Hogan,0.00,0.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,C. Davis,10.21,6.80,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,J. Gordon,0.00,0.00,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,M. Mariota,16.98,19.30,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+BN,B.,0.00,–,10,Nov 7 - Nov 13,Amish Rakefighters,Flying Pyramids
+,,,,,,,
+QB,D. Brees,17.94,15.80,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+WR,D. Jackson,10.37,14.20,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+WR,D. Adams,9.50,17.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+RB,D. Freeman,13.61,0.30,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+RB,I. Crowell,8.58,16.50,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+TE,J. Witten,10.71,12.90,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+W/R,M. Forte,0.00,0.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+K,A. Vinatieri,7.52,6.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+DEF,L. Angeles,9.74,15.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,A. Jeffery,0.00,–,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,A. Cooper,0.00,0.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,L. Blount,0.00,0.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,C. Newton,18.42,34.20,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,G. Olsen,0.00,0.00,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+BN,M. Wallace,0.00,–,10,Nov 7 - Nov 13,Flying Pyramids,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,20.80,22.30,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+WR,D. Hopkins,12.78,18.10,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+WR,S. Shepard,12.00,25.20,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+RB,O. Darkwa,8.86,12.80,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+RB,T. Riddick,8.05,10.70,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+TE,T. Kroft,8.15,1.40,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+W/R,D. Amendola,10.28,7.60,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+K,G. Zuerlein,9.98,17.00,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+DEF,N. York,6.53,3.00,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,E. Elliott,0.00,0.00,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,C. Anderson,8.71,6.50,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,Z. Ertz,0.00,–,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,J. Cook,0.00,0.00,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,W. Snead IV,6.88,–,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+BN,J. Crowder,10.51,12.10,10,Nov 7 - Nov 13,Crooked 6 1/2's,Flying Dutchmen
+,,,,,,,
+QB,M. Ryan,17.78,14.75,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+WR,D. Thomas,12.15,12.40,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+WR,J. Nelson,10.52,5.00,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+RB,L. Miller,12.05,8.40,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+RB,M. Gordon III,16.65,9.20,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+TE,E. Engram,12.59,12.10,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+W/R,T. Hilton,12.92,4.30,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+K,M. Bryant,8.66,11.00,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+DEF,C.,8.08,3.00,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,F. Gore,8.21,7.10,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,T. Kelce,0.00,–,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,D. Johnson,10.57,14.80,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,T. Williams,6.88,6.90,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,E. Sanders,10.78,19.70,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+BN,C.,5.66,8.00,10,Nov 7 - Nov 13,Flying Dutchmen,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,17.46,21.15,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+WR,G. Tate,14.80,18.70,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+WR,K. Benjamin,9.56,7.20,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+RB,M. Ingram II,15.45,31.10,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+RB,D. Murray,10.56,26.20,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+TE,R. Gronkowski,14.17,11.40,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+W/R,C. Kupp,8.60,10.70,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+K,K. Forbath,8.43,10.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+DEF,J.,8.72,5.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,K. Hunt,0.00,0.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,M. Crabtree,0.00,0.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,R. Matthews,9.50,10.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,J. Goff,17.50,27.05,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,G. Tavecchio,0.00,0.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+BN,C.,8.95,2.00,10,Nov 7 - Nov 13,Free Form Jazz,Rump Runners
+,,,,,,,
+QB,D. Prescott,19.59,15.00,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+WR,A. Green,15.76,19.50,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+WR,T. Ginn Jr.,9.11,1.30,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+RB,L. Fournette,17.79,6.60,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+RB,J. Howard,14.05,5.40,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+TE,K. Rudolph,9.80,8.70,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+W/R,B. Cooks,14.10,13.40,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+K,S. Gostkowski,9.29,11.00,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+DEF,S.,8.53,9.00,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,T. Hill,0.00,–,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,J. Mixon,10.12,11.00,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,A. Seferian-Jenkins,9.24,12.70,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,M. Evans,0.00,0.00,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,D. Lewis,9.56,17.50,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+BN,L. Murray,8.45,12.80,10,Nov 7 - Nov 13,Rump Runners,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,R. Wilson,19.15,19.80,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+WR,D. Baldwin,14.58,14.50,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+WR,A. Brown,20.79,7.70,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+RB,T. Gurley II,20.35,19.60,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+RB,J. McKinnon,12.44,6.70,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+TE,J. Doyle,11.13,2.90,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+W/R,A. Thielen,12.22,27.60,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+K,W. Lutz,8.50,13.00,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+DEF,P.,9.60,6.00,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,M. Lee,11.23,16.50,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,T. Coleman,8.47,15.80,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,D. Parker,10.94,12.60,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,D. Walker,10.45,12.30,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,J. Richard,0.00,–,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+BN,P.,0.00,–,10,Nov 7 - Nov 13,Touch Me Gingerly,Wooden Shoes
+,,,,,,,
+QB,T. Taylor,17.46,3.50,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+WR,J. Landry,12.50,12.20,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+WR,L. Fitzgerald,11.62,21.30,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+RB,C. Hyde,15.71,12.40,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+RB,B. Powell,15.91,2.60,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+TE,C. Clay,9.21,3.30,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+W/R,S. Diggs,13.42,14.80,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+K,C. Boswell,9.49,7.00,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+DEF,D.,9.75,14.00,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,C. Thompson,11.14,9.70,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,J. Ajayi,0.00,–,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,K. Drake,9.04,17.20,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,C. Wentz,0.00,0.00,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,M. Jones Jr.,11.35,3.20,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+BN,J. Tucker,0.00,–,10,Nov 7 - Nov 13,Wooden Shoes,Touch Me Gingerly
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,R. Wilson,20.58,31.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+WR,D. Baldwin,14.29,9.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+WR,A. Brown,17.69,33.40, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+RB,T. Gurley II,19.84,14.60, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+RB,T. Coleman,15.10,12.80, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+TE,D. Walker,11.64,15.20, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+W/R,A. Thielen,13.47,21.30, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+K,W. Lutz,10.47,17.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+DEF,P.,8.45,16.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. McKinnon,11.99,11.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. Doyle,0.00,–, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,M. Lee,12.19,9.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,D. Parker,11.80,6.60, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. Williams,9.81,13.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,P.,6.73,22.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+,,,,,,,
+QB,M. Ryan,17.31,16.95, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+WR,D. Thomas,12.44,14.40, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+WR,J. Nelson,9.86,4.40, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+RB,L. Miller,10.36,15.30, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+RB,M. Gordon III,15.50,14.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+TE,T. Kelce,15.42,16.90, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+W/R,E. Sanders,13.29,3.50, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+K,M. Bryant,8.51,11.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+DEF,C.,7.11,10.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,T. Hilton,0.00,–, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,E. Engram,14.36,1.90, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,F. Gore,0.00,–, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,D. Johnson,11.40,13.60, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,T. Williams,8.20,2.10, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,C.,6.44,5.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Mariota,15.80,16.80, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+WR,J. Smith-Schuster,12.13,8.70, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+WR,C. Davis,10.89,5.70, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+RB,L. McCoy,15.21,22.60, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+RB,R. Burkhead,9.76,7.70, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+TE,J. Graham,12.34,17.80, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+W/R,M. Thomas,18.27,15.10, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+K,J. Elliott,9.58,1.00, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+DEF,B.,7.48,26.00, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,M. Sanu,10.97,9.70, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,C. McCaffrey,0.00,–, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,C. Hogan,0.00,–, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,J. Gordon,0.00,0.00, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,S. Perine,8.47,19.60, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+BN,C. Boswell,9.08,19.00, , Nov 14 - Nov 20,Amish Rakefighters,Rump Runners
+,,,,,,,
+QB,D. Prescott,21.79,0.25, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+WR,A. Green,15.52,12.00, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+WR,T. Hill,14.58,15.40, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+RB,L. Fournette,11.29,13.80, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+RB,J. Howard,11.73,18.50, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+TE,K. Rudolph,10.28,10.80, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+W/R,B. Cooks,15.15,23.90, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+K,S. Gostkowski,11.17,20.00, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+DEF,S.,7.09,2.00, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,M. Evans,13.65,14.20, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,T. Ginn Jr.,9.53,13.50, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,J. Mixon,9.81,6.90, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,D. Lewis,11.40,15.80, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,L. Murray,9.24,22.60, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+BN,D. Carr,17.17,14.85, , Nov 14 - Nov 20,Rump Runners,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,22.87,26.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+WR,D. Hopkins,13.49,14.60, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+WR,D. Amendola,10.22,17.60, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+RB,O. Darkwa,9.15,17.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+RB,T. Riddick,8.31,4.90, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+TE,Z. Ertz,14.43,2.80, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+W/R,J. Crowder,14.00,14.60, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+K,G. Zuerlein,10.36,1.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+DEF,D.,5.67,-1.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,S. Shepard,0.00,0.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,T. Kroft,7.23,6.20, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,E. Elliott,0.00,0.00, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,C. Anderson,9.31,11.60, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,J. Cook,10.94,5.60, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+BN,W. Snead IV,6.51,2.20, , Nov 14 - Nov 20,Crooked 6 1/2's,Flying Pyramids
+,,,,,,,
+QB,D. Brees,20.04,23.45, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+WR,D. Jackson,9.86,7.80, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+WR,A. Cooper,12.04,8.80, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+RB,I. Crowell,9.31,1.80, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+RB,L. Blount,5.95,5.70, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+TE,J. Witten,9.69,1.70, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+W/R,A. Jeffery,11.52,15.70, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+K,R. Succop,8.51,6.00, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+DEF,L. Angeles,6.53,0.00, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,D. Freeman,0.00,0.00, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,D. Adams,9.08,20.60, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,M. Forte,0.00,–, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,C. Newton,0.00,0.00, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,G. Olsen,0.00,0.00, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+BN,A. Vinatieri,0.00,–, , Nov 14 - Nov 20,Flying Pyramids,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,17.31,16.95, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+WR,D. Thomas,12.44,14.40, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+WR,J. Nelson,9.86,4.40, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+RB,L. Miller,10.36,15.30, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+RB,M. Gordon III,15.50,14.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+TE,T. Kelce,15.42,16.90, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+W/R,E. Sanders,13.29,3.50, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+K,M. Bryant,8.51,11.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+DEF,C.,7.11,10.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,T. Hilton,0.00,–, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,E. Engram,14.36,1.90, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,F. Gore,0.00,–, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,D. Johnson,11.40,13.60, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,T. Williams,8.20,2.10, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+BN,C.,6.44,5.00, , Nov 14 - Nov 20,Flying Dutchmen,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,20.58,31.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+WR,D. Baldwin,14.29,9.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+WR,A. Brown,17.69,33.40, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+RB,T. Gurley II,19.84,14.60, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+RB,T. Coleman,15.10,12.80, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+TE,D. Walker,11.64,15.20, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+W/R,A. Thielen,13.47,21.30, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+K,W. Lutz,10.47,17.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+DEF,P.,8.45,16.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. McKinnon,11.99,11.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. Doyle,0.00,–, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,M. Lee,12.19,9.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,D. Parker,11.80,6.60, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,J. Williams,9.81,13.50, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+BN,P.,6.73,22.00, , Nov 14 - Nov 20,Touch Me Gingerly,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,16.12,19.25, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+WR,G. Tate,14.85,6.20, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+WR,M. Crabtree,12.29,13.10, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+RB,M. Ingram II,20.52,24.50, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+RB,K. Hunt,19.25,10.70, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+TE,R. Gronkowski,16.15,6.70, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+W/R,R. Matthews,9.75,19.30, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+K,G. Tavecchio,7.99,0.00, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+DEF,J.,9.98,25.00, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,K. Benjamin,9.38,3.00, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,D. Murray,11.13,9.70, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,C. Kupp,9.05,10.40, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,J. Goff,18.18,12.05, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,M. Bennett,6.47,4.50, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+BN,C.,0.00,–, , Nov 14 - Nov 20,Free Form Jazz,Sea Kings
+,,,,,,,
+QB,B. Roethlisberger,16.28,27.95, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+WR,R. Woods,12.43,16.10, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+WR,M. Jones Jr.,9.69,15.50, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+RB,A. Kamara,16.33,22.60, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+RB,L. Bell,21.22,19.30, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+TE,C. Brate,9.17,2.20, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+W/R,A. Abdullah,10.33,8.50, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+K,H. Butker,11.08,9.00, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+DEF,D.,7.86,9.00, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,N. Agholor,9.97,0.80, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,A. Peterson,9.72,4.90, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,D. Funchess,0.00,0.00, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,A. Smith,15.79,10.20, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,W. Fuller V,0.00,0.00, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+BN,A. Seferian-Jenkins,0.00,0.00, , Nov 14 - Nov 20,Sea Kings,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,19.22,16.50,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+WR,J. Jones,16.43,44.80,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+WR,D. Bryant,12.25,6.70,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+RB,M. Lynch,10.11,20.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+RB,A. Morris,10.68,5.90,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+TE,V. Davis,13.42,0.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+W/R,K. Allen,13.79,31.20,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+K,M. Prater,8.94,13.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+DEF,L. Vegas,6.25,8.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,J. White,8.89,2.50,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,D. Woodhead,10.34,8.50,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,T. Cohen,7.79,1.70,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,J. Maclin,10.04,1.60,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,A. Ekeler,5.79,10.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+BN,M.,7.62,7.00,12,Nov 21 - Nov 27,Whirling Dervishes,Rump Runners
+,,,,,,,
+QB,C. Keenum,15.17,28.10,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+WR,A. Green,16.72,11.60,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+WR,T. Hill,14.25,12.40,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+RB,L. Fournette,15.41,7.20,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+RB,J. Howard,10.62,3.90,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+TE,K. Rudolph,9.60,16.30,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+W/R,B. Cooks,15.47,18.40,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+K,S. Gostkowski,10.70,5.00,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+DEF,S.,8.67,9.00,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,D. Prescott,21.48,4.95,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,M. Evans,13.19,13.80,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,T. Ginn Jr.,9.56,14.10,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,J. Mixon,12.78,25.50,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,D. Lewis,11.08,12.30,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+BN,L. Murray,11.84,14.40,12,Nov 21 - Nov 27,Rump Runners,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Mariota,19.78,8.60,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+WR,M. Thomas,17.59,10.20,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+WR,M. Sanu,10.37,19.95,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+RB,L. McCoy,16.82,11.90,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+RB,S. Perine,11.77,16.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+TE,J. Graham,15.93,9.40,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+W/R,C. McCaffrey,17.25,11.70,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+K,C. Boswell,10.21,7.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+DEF,B.,10.49,9.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,J. Smith-Schuster,0.00,0.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,C. Davis,11.16,7.90,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,R. Burkhead,10.28,16.30,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,C. Hogan,0.00,0.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,J. Gordon,0.00,0.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+BN,J. Elliott,9.58,8.00,12,Nov 21 - Nov 27,Amish Rakefighters,Sea Kings
+,,,,,,,
+QB,P. Rivers,15.66,30.20,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+WR,M. Jones Jr.,10.93,22.90,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+WR,M. Bryant,9.41,11.10,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+RB,A. Kamara,17.54,33.80,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+RB,L. Bell,24.49,28.30,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+TE,A. Hooper,9.39,6.80,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+W/R,J. Doctson,10.35,7.80,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+K,H. Butker,10.02,5.00,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+DEF,N. England,9.57,17.00,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,A. Seferian-Jenkins,10.12,4.70,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,D. Funchess,12.28,17.80,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,A. Abdullah,10.24,7.30,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,B. Roethlisberger,18.71,30.05,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,R. Woods,0.00,0.00,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+BN,N. Agholor,9.63,15.20,12,Nov 21 - Nov 27,Sea Kings,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,24.40,18.95,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+WR,D. Hopkins,13.73,19.50,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+WR,D. Amendola,10.22,2.50,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+RB,O. Darkwa,10.51,4.90,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+RB,C. Anderson,8.70,1.20,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+TE,Z. Ertz,15.75,23.30,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+W/R,J. Crowder,13.19,24.10,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+K,G. Zuerlein,10.48,18.00,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+DEF,D.,6.96,0.00,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,S. Shepard,0.00,0.00,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,T. Riddick,7.32,4.00,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,T. Kroft,9.58,7.40,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,E. Elliott,0.00,0.00,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,J. Cook,11.73,1.20,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+BN,K. Stills,9.29,7.70,12,Nov 21 - Nov 27,Crooked 6 1/2's,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,21.75,23.90,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+WR,D. Baldwin,14.72,4.00,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+WR,A. Brown,19.95,34.90,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+RB,T. Gurley II,20.88,16.80,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+RB,T. Coleman,15.24,21.70,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+TE,D. Walker,12.97,13.30,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+W/R,A. Thielen,15.58,16.90,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+K,W. Lutz,8.90,10.00,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+DEF,P.,10.79,3.00,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,J. McKinnon,12.72,6.40,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,J. Doyle,12.71,16.40,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,M. Lee,10.34,2.30,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,D. Parker,9.67,1.50,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,J. Williams,9.47,26.50,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+BN,P.,9.97,13.00,12,Nov 21 - Nov 27,Touch Me Gingerly,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,20.02,18.95,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+WR,D. Thomas,12.38,6.80,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+WR,T. Hilton,14.84,3.50,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+RB,L. Miller,11.56,12.80,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+RB,M. Gordon III,15.37,11.80,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+TE,T. Kelce,16.98,6.90,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+W/R,E. Sanders,12.04,4.20,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+K,M. Bryant,10.45,11.00,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+DEF,C.,10.14,5.00,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,J. Nelson,8.57,4.10,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,E. Engram,13.38,4.80,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,F. Gore,8.38,15.90,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,D. Johnson,13.21,10.70,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,T. Williams,5.70,10.80,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+BN,C.,3.44,6.00,12,Nov 21 - Nov 27,Flying Dutchmen,Flying Pyramids
+,,,,,,,
+QB,D. Brees,19.66,15.80,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+WR,D. Jackson,9.10,14.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+WR,A. Cooper,11.72,4.90,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+RB,I. Crowell,9.03,11.50,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+RB,L. Blount,7.90,7.70,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+TE,J. Witten,11.00,11.40,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+W/R,A. Jeffery,12.21,13.20,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+K,A. Vinatieri,8.91,11.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+DEF,L. Angeles,6.01,4.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,D. Freeman,0.00,0.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,D. Adams,11.32,16.20,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,M. Forte,7.55,2.60,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,C. Newton,20.09,19.20,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,G. Olsen,9.71,2.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+BN,R. Succop,9.33,9.00,12,Nov 21 - Nov 27,Flying Pyramids,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,16.63,14.50,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+WR,G. Tate,14.57,6.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+WR,M. Crabtree,11.35,0.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+RB,M. Ingram II,21.26,5.60,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+RB,K. Hunt,15.41,3.60,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+TE,R. Gronkowski,16.26,19.20,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+W/R,D. Murray,12.87,13.20,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+K,G. Tavecchio,8.19,3.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+DEF,J.,9.23,11.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,R. Matthews,0.00,0.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,K. Benjamin,0.00,0.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,C. Kupp,11.73,19.60,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,J. Goff,20.04,21.40,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,M. Bennett,0.00,0.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+BN,C.,8.85,17.00,12,Nov 21 - Nov 27,Free Form Jazz,Wooden Shoes
+,,,,,,,
+QB,C. Wentz,20.83,23.25,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+WR,J. Landry,14.06,15.00,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+WR,L. Fitzgerald,13.83,6.20,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+RB,J. Ajayi,9.49,4.30,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+RB,C. Hyde,16.06,13.80,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+TE,C. Clay,7.99,10.00,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+W/R,S. Diggs,13.11,12.50,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+K,J. Tucker,10.47,14.00,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+DEF,K. City,9.24,3.00,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,C. Coleman,9.60,9.40,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,T. Montgomery,0.00,0.00,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,R. Anderson,10.50,26.60,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,A. Collins,10.70,13.70,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,D. Booker,10.92,5.30,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+BN,D. Henry,8.07,9.90,12,Nov 21 - Nov 27,Wooden Shoes,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,J. Goff,17.91,15.20,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+WR,G. Tate,14.08,14.90,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+WR,C. Kupp,11.86,11.80,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+RB,M. Ingram II,16.83,24.20,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+RB,K. Hunt,13.46,9.30,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+TE,R. Gronkowski,16.43,23.70,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+W/R,D. Murray,12.79,9.90,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+K,G. Tavecchio,7.97,6.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+DEF,J.,10.72,12.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,R. Matthews,0.00,0.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,M. Crabtree,0.00,0.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,M. Stafford,16.02,13.80,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,K. Benjamin,0.00,0.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,D. Inman,11.51,7.10,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+BN,C.,4.39,3.00,13,Nov 28 - Dec 4,Free Form Jazz,Whirling Dervishes
+,,,,,,,
+QB,K. Cousins,19.74,13.15,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+WR,J. Jones,16.94,4.40,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+WR,D. Bryant,14.16,14.10,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+RB,M. Lynch,12.33,20.10,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+RB,D. Woodhead,11.41,4.30,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+TE,V. Davis,11.06,3.50,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+W/R,K. Allen,15.58,23.50,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+K,M. Prater,9.40,2.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+DEF,D.,6.95,14.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,A. Peterson,0.00,0.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,A. Morris,10.56,18.70,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,J. White,8.26,9.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,T. Cohen,8.99,14.40,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,A. Ekeler,9.03,6.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+BN,M. Bryant,9.56,8.00,13,Nov 28 - Dec 4,Whirling Dervishes,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Smith,17.01,37.30,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+WR,M. Thomas,16.56,15.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+WR,M. Sanu,11.16,7.30,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+RB,L. McCoy,16.65,12.20,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+RB,S. Perine,12.31,9.90,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+TE,J. Graham,12.50,8.60,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+W/R,C. McCaffrey,16.33,12.90,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+K,J. Elliott,8.09,4.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+DEF,L. Angeles,9.99,11.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,J. Smith-Schuster,10.77,5.70,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,R. Burkhead,11.69,25.30,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,C. Hogan,0.00,0.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,J. Gordon,9.55,12.50,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,A. Rodgers,0.00,0.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+BN,B.,7.55,16.00,13,Nov 28 - Dec 4,Amish Rakefighters,Flying Pyramids
+,,,,,,,
+QB,D. Brees,18.73,16.15,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+WR,D. Jackson,11.13,4.40,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+WR,D. Adams,13.28,8.20,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+RB,I. Crowell,9.38,5.40,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+RB,D. Freeman,13.70,9.10,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+TE,J. Witten,10.94,4.80,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+W/R,A. Jeffery,13.02,10.10,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+K,R. Succop,9.28,7.00,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+DEF,L. Angeles,7.08,22.00,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,A. Cooper,0.00,0.00,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,L. Blount,8.02,2.60,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,M. Forte,7.08,15.10,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,C. Newton,17.57,20.25,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,G. Olsen,0.00,0.00,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+BN,A. Vinatieri,7.57,4.00,13,Nov 28 - Dec 4,Flying Pyramids,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,21.97,10.90,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+WR,D. Hopkins,14.79,16.00,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+WR,D. Amendola,11.67,5.40,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+RB,O. Darkwa,9.91,10.10,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+RB,K. Drake,13.55,23.10,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+TE,Z. Ertz,14.17,4.40,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+W/R,J. Crowder,13.42,9.70,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+K,G. Zuerlein,10.26,17.00,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+DEF,G. Bay,5.76,16.00,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,S. Shepard,11.97,8.60,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,C. Anderson,9.03,15.00,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,T. Riddick,15.40,17.20,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,E. Elliott,0.00,0.00,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,J. Cook,12.33,1.90,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+BN,K. Stills,9.92,15.80,13,Nov 28 - Dec 4,Crooked 6 1/2's,Wooden Shoes
+,,,,,,,
+QB,C. Wentz,18.95,19.40,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+WR,J. Landry,12.01,11.20,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+WR,L. Fitzgerald,13.72,22.80,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+RB,C. Hyde,15.19,9.60,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+RB,A. Collins,11.83,23.80,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+TE,C. Clay,10.08,5.00,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+W/R,S. Diggs,15.39,5.70,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+K,J. Tucker,9.82,17.00,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+DEF,L. Vegas,7.33,8.00,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,R. Anderson,12.68,19.40,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,J. Ajayi,7.87,7.60,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,C. Coleman,9.21,0.00,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,T. Montgomery,0.00,0.00,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,D. Booker,11.33,1.80,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+BN,D. Henry,9.35,16.90,13,Nov 28 - Dec 4,Wooden Shoes,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,18.41,8.75,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+WR,D. Thomas,13.66,4.70,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+WR,T. Hilton,11.82,11.10,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+RB,L. Miller,12.21,13.40,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+RB,M. Gordon III,16.13,14.60,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+TE,T. Kelce,16.31,19.40,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+W/R,D. Johnson,11.69,3.20,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+K,M. Bryant,9.22,10.00,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+DEF,C.,7.69,11.00,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,E. Sanders,12.72,3.10,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,J. Nelson,10.13,6.70,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,E. Engram,11.02,19.90,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,F. Gore,7.89,6.10,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,T. Williams,8.73,1.80,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+BN,C.,5.90,3.00,13,Nov 28 - Dec 4,Flying Dutchmen,Rump Runners
+,,,,,,,
+QB,C. Keenum,17.28,17.25,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+WR,B. Cooks,15.73,4.20,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+WR,M. Evans,15.20,5.30,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+RB,L. Fournette,15.24,16.90,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+RB,J. Howard,14.93,4.30,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+TE,K. Rudolph,11.00,10.60,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+W/R,D. Lewis,11.71,9.20,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+K,S. Gostkowski,9.94,13.00,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+DEF,S.,6.29,11.00,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,A. Green,15.13,20.70,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,T. Hill,13.30,30.50,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,D. Prescott,18.01,13.90,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,J. Mixon,12.18,5.20,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,L. Murray,10.68,12.70,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+BN,B.,3.58,5.00,13,Nov 28 - Dec 4,Rump Runners,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,P. Rivers,18.58,20.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+WR,M. Goodwin,10.95,17.90,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+WR,J. Doctson,10.93,8.60,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+RB,A. Kamara,18.04,29.60,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+RB,L. Bell,21.95,26.20,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+TE,H. Henry,10.27,15.10,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+W/R,D. Funchess,12.55,13.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+K,J. Lambo,8.79,10.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+DEF,W.,5.84,-3.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,M. Jones Jr.,10.48,13.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,B. Roethlisberger,17.87,18.90,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,R. Woods,0.00,0.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,N. Agholor,9.94,24.10,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,R. Seals-Jones,7.36,6.40,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+BN,N. England,6.94,13.00,13,Nov 28 - Dec 4,Sea Kings,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,21.69,23.45,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+WR,D. Baldwin,14.66,13.40,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+WR,A. Brown,18.16,21.10,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+RB,T. Gurley II,17.27,21.80,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+RB,J. Williams,9.94,20.30,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+TE,D. Walker,12.17,14.30,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+W/R,A. Thielen,16.05,9.10,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+K,W. Lutz,9.34,7.00,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+DEF,P.,7.35,3.00,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,T. Coleman,8.02,7.90,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,J. McKinnon,11.14,13.20,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,J. Doyle,11.24,4.60,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,M. Lee,12.55,18.60,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,D. Parker,10.93,1.50,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+BN,P.,6.93,2.00,13,Nov 28 - Dec 4,Touch Me Gingerly,Sea Kings
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Smith,18.06,13.80,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+WR,M. Thomas,15.95,24.70,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+WR,J. Gordon,12.71,12.90,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+RB,L. McCoy,17.11,21.60,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+RB,C. McCaffrey,16.63,8.30,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+TE,J. Graham,11.06,0.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+W/R,R. Burkhead,11.70,16.30,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+K,J. Elliott,8.38,14.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+DEF,L. Angeles,7.38,8.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,S. Perine,10.70,9.20,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,M. Sanu,10.78,17.30,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,J. Smith-Schuster,0.00,0.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,C. Hogan,11.98,1.10,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,A. Rodgers,0.00,0.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+BN,B.,6.35,-1.00,14,Dec 5 - Dec 11,Amish Rakefighters,Rump Runners
+,,,,,,,
+QB,C. Keenum,15.78,20.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+WR,T. Hill,15.04,11.50,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+WR,A. Green,15.52,9.40,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+RB,L. Fournette,13.29,21.90,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+RB,D. Lewis,11.82,11.70,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+TE,K. Rudolph,9.44,10.10,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+W/R,B. Cooks,15.19,4.80,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+K,S. Gostkowski,10.10,9.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+DEF,B.,8.41,5.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,J. Howard,11.60,28.50,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,M. Evans,12.90,4.50,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,D. Prescott,17.89,26.90,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,J. Mixon,0.00,0.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,L. Murray,10.47,4.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+BN,S.,7.67,1.00,14,Dec 5 - Dec 11,Rump Runners,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,17.96,8.05,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+WR,D. Thomas,12.91,20.30,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+WR,T. Hilton,11.91,4.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+RB,L. Miller,13.49,8.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+RB,M. Gordon III,16.11,15.30,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+TE,T. Kelce,15.23,14.40,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+W/R,D. Johnson,12.27,11.90,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+K,M. Bryant,9.27,10.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+DEF,C.,8.08,1.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,E. Sanders,10.83,2.60,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,J. Nelson,11.02,7.30,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,E. Engram,12.61,9.40,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,F. Gore,7.53,15.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,T. Williams,6.47,20.20,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+BN,C.,6.07,11.00,14,Dec 5 - Dec 11,Flying Dutchmen,Sea Kings
+,,,,,,,
+QB,P. Rivers,18.20,21.95,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+WR,M. Goodwin,11.55,16.60,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+WR,M. Jones Jr.,10.98,9.40,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+RB,A. Kamara,22.38,5.70,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+RB,L. Bell,22.27,36.50,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+TE,H. Henry,10.41,12.00,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+W/R,N. Agholor,10.63,14.40,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+K,R. Gould,8.01,17.00,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+DEF,N. England,8.90,2.00,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,D. Funchess,10.92,11.90,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,J. Doctson,9.90,6.40,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,B. Roethlisberger,15.72,31.80,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,R. Woods,0.00,0.00,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,J. Kearse,9.48,1.40,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+BN,W. Fuller V,6.62,5.60,14,Dec 5 - Dec 11,Sea Kings,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,A. Rodgers,19.67,21.80,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+WR,M. Thomas,16.18,21.30,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+WR,J. Gordon,12.85,9.70,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+RB,L. McCoy,18.28,22.60,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+RB,R. Burkhead,11.72,8.70,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+TE,J. Graham,11.43,0.90,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+W/R,C. McCaffrey,16.11,22.60,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+K,J. Elliott,8.66,10.00,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+DEF,B.,9.29,20.00,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,A. Smith,17.22,18.85,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,S. Perine,12.65,8.60,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,M. Sanu,12.02,4.60,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,J. Smith-Schuster,12.62,17.40,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,C. Hogan,0.00,0.00,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+BN,L. Angeles,6.19,0.00,15,Dec 12 - Dec 18,Amish Rakefighters,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,19.98,12.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+WR,D. Baldwin,13.60,1.60,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+WR,A. Brown,19.62,4.40,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+RB,T. Gurley II,18.81,42.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+RB,J. Williams,9.92,3.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+TE,D. Walker,12.14,9.70,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+W/R,A. Thielen,15.84,6.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+K,W. Lutz,9.40,7.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+DEF,P.,9.03,8.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,T. Coleman,0.00,0.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,J. McKinnon,10.77,20.80,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,J. Doyle,11.90,11.70,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,M. Lee,12.68,0.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,D. Parker,9.23,14.90,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+BN,D.,5.82,3.00,15,Dec 12 - Dec 18,Touch Me Gingerly,Amish Rakefighters
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,22.09,17.70,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+WR,D. Hopkins,12.79,15.00,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+WR,D. Amendola,10.81,4.30,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+RB,K. Drake,15.86,23.30,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+RB,T. Riddick,11.64,7.10,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+TE,Z. Ertz,12.53,14.60,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+W/R,J. Crowder,11.97,13.50,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+K,G. Zuerlein,9.52,10.00,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+DEF,G. Bay,5.92,0.00,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,S. Shepard,11.23,27.90,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,O. Darkwa,7.07,8.60,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,C. Anderson,9.38,15.80,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,E. Elliott,0.00,0.00,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,J. Cook,9.27,3.70,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+BN,K. Stills,8.04,1.80,15,Dec 12 - Dec 18,Crooked 6 1/2's,Sea Kings
+,,,,,,,
+QB,B. Roethlisberger,20.25,19.05,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+WR,M. Goodwin,11.83,22.40,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+WR,D. Funchess,12.55,2.90,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+RB,A. Kamara,19.93,17.90,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+RB,L. Bell,23.27,27.50,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+TE,H. Henry,10.56,5.80,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+W/R,R. Woods,11.41,13.50,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+K,R. Gould,9.20,24.00,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+DEF,N. Orleans,10.19,6.00,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,M. Jones Jr.,10.93,11.50,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,P. Rivers,18.37,8.35,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,N. Agholor,9.92,15.90,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,J. Doctson,9.58,2.20,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,J. Kearse,8.30,5.80,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+BN,N. England,6.03,4.00,15,Dec 12 - Dec 18,Sea Kings,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,17.39,15.80,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+WR,J. Jones,17.91,8.40,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+WR,D. Bryant,14.16,7.50,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+RB,M. Lynch,12.22,12.20,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+RB,A. Morris,10.79,8.10,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+TE,J. James,8.53,2.70,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+W/R,K. Allen,17.89,10.40,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+K,M. Prater,9.26,9.00,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+DEF,D.,8.88,5.00,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,V. Davis,7.82,1.80,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,D. Woodhead,10.01,9.20,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,A. Peterson,0.00,0.00,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,J. White,6.67,2.80,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,T. Cohen,8.52,5.70,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+BN,M. Bryant,7.66,12.90,15,Dec 12 - Dec 18,Whirling Dervishes,Flying Pyramids
+,,,,,,,
+QB,D. Brees,19.94,17.95,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+WR,D. Adams,13.09,13.70,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+WR,D. Jackson,10.47,2.80,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+RB,I. Crowell,10.58,10.50,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+RB,D. Freeman,16.22,30.40,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+TE,J. Witten,9.91,8.70,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+W/R,A. Jeffery,11.11,11.90,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+K,R. Succop,8.93,14.00,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+DEF,L. Angeles,6.13,17.00,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,A. Cooper,0.00,0.00,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,L. Blount,5.95,2.10,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,M. Forte,7.18,5.40,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,C. Newton,20.68,29.90,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,G. Olsen,8.97,23.60,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+BN,A. Vinatieri,8.35,8.00,15,Dec 12 - Dec 18,Flying Pyramids,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Ryan,21.07,16.50,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+WR,D. Thomas,13.50,11.90,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+WR,T. Hilton,12.72,9.10,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+RB,L. Miller,11.35,5.30,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+RB,M. Gordon III,14.63,28.90,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+TE,T. Kelce,16.05,10.60,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+W/R,D. Johnson,12.16,15.30,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+K,M. Bryant,9.94,8.00,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+DEF,C.,6.23,7.00,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,E. Sanders,8.24,13.80,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,J. Nelson,11.69,5.80,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,E. Engram,10.37,18.10,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,F. Gore,12.07,9.80,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,T. Williams,8.98,6.10,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+BN,C.,3.67,3.00,15,Dec 12 - Dec 18,Flying Dutchmen,Rump Runners
+,,,,,,,
+QB,C. Keenum,17.38,19.80,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+WR,T. Hill,13.69,16.80,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+WR,A. Green,14.21,5.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+RB,D. Lewis,12.72,15.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+RB,L. Murray,12.46,17.40,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+TE,K. Rudolph,10.18,6.70,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+W/R,B. Cooks,14.96,13.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+K,S. Gostkowski,9.33,8.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+DEF,B.,7.76,10.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,L. Fournette,0.00,0.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,J. Howard,12.95,10.30,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,M. Evans,12.39,15.90,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,D. Prescott,19.81,15.80,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,E. Ebron,9.48,11.30,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+BN,S.,5.89,0.00,15,Dec 12 - Dec 18,Rump Runners,Flying Dutchmen
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,M. Stafford,18.22,17.75,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+WR,G. Tate,14.62,6.30,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+WR,M. Crabtree,12.29,16.90,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+RB,M. Ingram II,17.38,32.10,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+RB,K. Hunt,14.65,36.60,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+TE,R. Gronkowski,15.39,27.80,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+W/R,D. Murray,11.45,7.30,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+K,G. Tavecchio,8.49,5.00,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+DEF,J.,10.77,10.00,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,C. Kupp,11.27,4.10,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,J. Goff,19.98,10.00,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,R. Matthews,10.83,18.50,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,K. Benjamin,8.69,4.00,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,D. Inman,8.78,1.50,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+BN,C.,5.82,11.00,15,Dec 12 - Dec 18,Free Form Jazz,Wooden Shoes
+,,,,,,,
+QB,J. Garoppolo,16.22,22.45,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+WR,J. Landry,13.57,19.90,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+WR,L. Fitzgerald,13.76,11.00,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+RB,C. Hyde,14.01,5.90,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+RB,A. Collins,11.45,10.20,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+TE,R. Seals-Jones,8.51,3.10,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+W/R,R. Anderson,9.94,9.00,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+K,J. Tucker,10.22,10.00,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+DEF,M.,9.57,17.00,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,S. Diggs,14.00,11.70,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,J. Ajayi,10.32,10.90,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,C. Coleman,8.95,2.60,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,D. Henry,10.25,4.80,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,G. Bernard,12.71,13.30,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+BN,P. Richardson Jr.,10.94,3.80,15,Dec 12 - Dec 18,Wooden Shoes,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,J. Goff,17.80,24.45,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+WR,G. Tate,13.84,4.40,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+WR,M. Crabtree,11.29,0.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+RB,M. Ingram II,18.92,15.60,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+RB,K. Hunt,15.76,20.60,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+TE,R. Gronkowski,15.39,14.70,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+W/R,C. Kupp,10.13,13.50,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+K,G. Tavecchio,6.86,4.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+DEF,J.,8.75,3.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,D. Murray,11.70,14.90,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,M. Stafford,18.28,11.85,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,R. Matthews,10.09,6.80,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,K. Benjamin,7.64,12.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,D. Inman,6.20,3.90,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,C.,9.14,19.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+,,,,,,,
+QB,D. Brees,18.68,12.55,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+WR,D. Jackson,0.00,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+WR,A. Cooper,10.10,12.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+RB,I. Crowell,8.54,5.30,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+RB,D. Freeman,14.34,5.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+TE,G. Olsen,14.83,5.70,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+W/R,A. Jeffery,12.09,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+K,R. Succop,9.22,11.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+DEF,L. Angeles,7.03,4.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,D. Adams,0.00,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,J. Witten,8.94,8.90,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,L. Blount,4.43,2.50,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,M. Forte,6.78,1.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,C. Newton,20.90,17.20,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,A. Vinatieri,8.16,11.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,K. Cousins,17.57,22.75,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+WR,J. Jones,15.20,21.90,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+WR,K. Allen,16.22,11.30,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+RB,M. Lynch,10.55,9.20,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+RB,D. Woodhead,10.74,9.10,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+TE,C. Clay,9.94,7.70,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+W/R,D. Bryant,12.79,5.30,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+K,M. Prater,9.22,5.00,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+DEF,K. City,8.92,8.00,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,V. Davis,8.00,9.20,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,A. Morris,2.28,0.00,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,A. Peterson,0.00,0.00,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,J. White,0.00,0.00,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,T. Cohen,9.86,4.10,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+BN,M. Bryant,10.84,9.80,16,Dec 19 - Dec 2,Whirling Dervishes,Wooden Shoes
+,,,,,,,
+QB,B. Bortles,17.54,24.20,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+WR,J. Landry,14.20,8.10,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+WR,L. Fitzgerald,14.13,24.95,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+RB,C. Hyde,12.98,16.30,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+RB,A. Collins,13.12,9.60,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+TE,A. Gates,8.67,17.10,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+W/R,S. Diggs,12.70,14.30,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+K,J. Tucker,11.33,11.00,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+DEF,P.,8.86,18.00,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,R. Anderson,9.28,10.10,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,J. Ajayi,13.19,10.30,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,C. Coleman,7.50,1.30,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,D. Henry,8.23,4.10,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,G. Bernard,5.69,29.80,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+BN,P. Richardson Jr.,10.43,4.10,16,Dec 19 - Dec 2,Wooden Shoes,Whirling Dervishes
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,T. Brady,21.13,15.80,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+WR,D. Hopkins,15.48,13.50,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+WR,S. Shepard,11.89,9.50,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+RB,K. Drake,13.33,5.70,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+RB,E. Elliott,18.23,15.80,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+TE,Z. Ertz,12.92,17.10,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+W/R,J. Crowder,11.18,11.70,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+K,C. Boswell,10.89,10.00,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+DEF,W.,8.73,14.00,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,T. Riddick,13.31,6.90,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,D. Amendola,9.82,5.80,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,O. Darkwa,6.09,1.00,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,C. Anderson,11.88,28.30,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,J. Cook,8.00,2.50,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+BN,K. Stills,8.32,7.40,16,Dec 19 - Dec 2,Crooked 6 1/2's,Touch Me Gingerly
+,,,,,,,
+QB,R. Wilson,20.90,13.55,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+WR,D. Baldwin,12.46,10.50,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+WR,D. Parker,9.57,11.30,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+RB,T. Gurley II,20.17,43.60,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+RB,J. McKinnon,12.10,6.10,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+TE,D. Walker,11.91,6.30,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+W/R,A. Thielen,14.36,4.40,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+K,W. Lutz,10.52,13.00,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+DEF,P.,8.28,21.00,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,J. Williams,9.05,5.80,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,A. Brown,0.00,0.00,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,T. Coleman,9.01,12.20,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,J. Doyle,9.76,9.10,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,M. Lee,0.00,0.00,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+BN,D.,6.20,4.00,16,Dec 19 - Dec 2,Touch Me Gingerly,Crooked 6 1/2's
+,,,,,,,position,playername,projection,points,week,date,rfflteam,rfflopponent
+QB,D. Brees,18.68,12.55,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+WR,D. Jackson,0.00,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+WR,A. Cooper,10.10,12.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+RB,I. Crowell,8.54,5.30,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+RB,D. Freeman,14.34,5.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+TE,G. Olsen,14.83,5.70,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+W/R,A. Jeffery,12.09,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+K,R. Succop,9.22,11.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+DEF,L. Angeles,7.03,4.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,D. Adams,0.00,0.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,J. Witten,8.94,8.90,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,L. Blount,4.43,2.50,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,M. Forte,6.78,1.60,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,C. Newton,20.90,17.20,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+BN,A. Vinatieri,8.16,11.00,16,Dec 19 - Dec 2,Flying Pyramids,Free Form Jazz
+,,,,,,,
+QB,J. Goff,17.80,24.45,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+WR,G. Tate,13.84,4.40,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+WR,M. Crabtree,11.29,0.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+RB,M. Ingram II,18.92,15.60,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+RB,K. Hunt,15.76,20.60,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+TE,R. Gronkowski,15.39,14.70,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+W/R,C. Kupp,10.13,13.50,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+K,G. Tavecchio,6.86,4.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+DEF,J.,8.75,3.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,D. Murray,11.70,14.90,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,M. Stafford,18.28,11.85,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,R. Matthews,10.09,6.80,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,K. Benjamin,7.64,12.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,D. Inman,6.20,3.90,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids
+BN,C.,9.14,19.00,16,Dec 19 - Dec 2,Free Form Jazz,Flying Pyramids

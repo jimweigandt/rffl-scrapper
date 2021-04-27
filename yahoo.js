@@ -3,14 +3,11 @@ const fs = require('fs');
 const path = require('path');
 const csvjson = require('csvjson');
 
+const currentYear = '2019';
+
 (async () => {
-    const urls = [
-        'https://football.fantasysports.yahoo.com/2012/f1/162/matchup?week=1&mid1=1&mid2=8',
-        'https://football.fantasysports.yahoo.com/2012/f1/162/matchup?week=1&mid1=2&mid2=3',
-        'https://football.fantasysports.yahoo.com/2012/f1/162/matchup?week=1&mid1=4&mid2=9',
-        'https://football.fantasysports.yahoo.com/2012/f1/162/matchup?week=1&mid1=5&mid2=6',
-        'https://football.fantasysports.yahoo.com/2012/f1/162/matchup?week=1&mid1=7&mid2=10'
-    ];
+
+    const urls = require(`./rffl-urls/2019-urls.js`);
 
     for (let j = 0; j < urls.length; j++) {
 
@@ -19,9 +16,22 @@ const csvjson = require('csvjson');
             headless: true
         });
         const page = await browser.newPage();
+
+
         await page.goto(`${url}`, {
-            waitUntil: 'networkidle2'
+            waitUntil: 'networkidle2',
+            timeout: 0
         });
+
+        if (url.includes('2011')) {
+            await page.type('[name=username]', 'jimweigandt');
+            await page.click('[type=submit]');
+
+            await page.waitForSelector('#login-passwd');
+            await page.type('[name=password]', '@Vikings1961');
+            await page.click('[type=submit]');
+
+        };
 
         await page.waitFor(5000);
         await page.waitForSelector('#matchups', {
@@ -52,9 +62,11 @@ const csvjson = require('csvjson');
         const getStartingLineup = await page.evaluate(() => {
             const startingData = document.querySelector('#matchups').innerText;
             const cleanStartingData = startingData.split("\n");
+            console.log(startingData);
 
             return cleanStartingData;
         });
+
 
         const getBenchLineup = await page.evaluate(() => {
             const benchData = document.querySelector('#matchupcontent2').innerText;
@@ -877,6 +889,7 @@ const csvjson = require('csvjson');
             opponent: fullGameData[4],
             oppConference: teamTwoConference,
             gameType: '',
+            gameOfTheWeek: '',
             teamScore: fullGameData[69],
             oppScore: fullGameData[70],
             teamProj: fullGameData[68],
@@ -929,6 +942,7 @@ const csvjson = require('csvjson');
             opponent: fullGameData[3],
             oppConference: teamOneConference,
             gameType: '',
+            gameOfTheWeek: '',
             teamScore: fullGameData[70],
             oppScore: fullGameData[69],
             teamProj: fullGameData[71],
@@ -981,6 +995,7 @@ const csvjson = require('csvjson');
             opponent: '',
             oppConference: '',
             gameType: '',
+            gameOfTheWeek: '',
             teamScore: '',
             oppScore: '',
             teamProj: '',
@@ -1028,7 +1043,7 @@ const csvjson = require('csvjson');
             headers: 'key'
         });
 
-        fs.appendFile('./test/2012-player-data.csv', csvPlayerData, (err) => {
+        fs.appendFile(`./test/2019-player-data.csv`, csvPlayerData, (err) => {
             if (err) {
                 console.log(err);
 
@@ -1041,7 +1056,7 @@ const csvjson = require('csvjson');
             headers: 'key'
         });
 
-        fs.appendFile('./test/game-data-test.csv', csvGameData, (err) => {
+        fs.appendFile(`./test/2019-game-data.csv`, csvGameData, (err) => {
             if (err) {
                 console.log(err);
 
